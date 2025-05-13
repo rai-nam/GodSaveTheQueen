@@ -1,0 +1,380 @@
+{
+  "speech": {
+    "metadata": {
+      "title": "Speech to the United Nations General Assembly",
+      "date": "2010",
+      "occasion": "Address to the UN",
+      "speaker": {
+        "name": "Queen Elizabeth II",
+        "role": "British Monarch",
+        "age": 84
+      }
+    },
+    "paragraphs": [
+      {
+        "text": "Mr. President, Secretary General, members of the General Assembly.",
+        "ipa": "/ˈmɪstə ˈprɛzɪdənt, ˈsɛkrətəri ˈʤɛnərəl, ˈmɛmbəz əv ðə ˈʤɛnərəl əˈsɛmbli/",
+        "analysis": {
+          "purpose": "Address the audience formally",
+          "tone": "Respectful"
+        }
+      },
+      {
+        "text": "I believe I was last here in 1957.",
+        "ipa": "/aɪ bɪˈliːv aɪ wɒz lɑːst hɪər ɪn ˈnaɪntiːn ˈfɪfti ˈsɛvən/",
+        "analysis": {
+          "purpose": "Establish historical context",
+          "tone": "Reflective"
+        }
+      },
+      {
+        "text": "Since then, I have traveled widely and met many leaders, ambassadors, and statesmen from around the world.",
+        "ipa": "/sɪns ðɛn, aɪ hæv ˈtrævəld ˈwaɪdli ænd mɛt ˈmɛni ˈliːdəz, æmˈbæsədəz, ænd ˈsteɪtsmən frɒm əˈraʊnd ðə wɜːld/",
+        "analysis": {
+          "purpose": "Highlight global engagement",
+          "theme": "International relations"
+        }
+      },
+      {
+        "text": "I address you today as Queen of 16 United Nations member states and as head of the Commonwealth of 54 countries.",
+        "ipa": "/aɪ əˈdrɛs juː təˈdeɪ æz kwiːn əv ˈsɪkstiːn juːˈnaɪtɪd ˈneɪʃənz ˈmɛmbə steɪts ænd æz hɛd əv ðə ˈkɒmənwelθ əv ˈfɪfti fɔː ˈkʌntriz/",
+        "analysis": {
+          "purpose": "State her role and representation",
+          "tone": "Proud"
+        }
+      },
+      {
+        "text": "I have also witnessed great change much of it for the better, particularly in science and technology and in social attitudes.",
+        "ipa": "/aɪ hæv ˈɔːlsəʊ ˈwɪtnɪst ɡreɪt ʧeɪnʤ mʌʧ əv ɪt fɔː ðə ˈbɛtə, pəˈtɪkjʊləli ɪn ˈsaɪəns ænd tɛkˈnɒləʤi ænd ɪn ˈsəʊʃəl ˈætɪtjuːdz/",
+        "analysis": {
+          "purpose": "Acknowledge positive developments",
+          "theme": "Progress"
+        }
+      },
+      {
+        "text": "Remarkably, many of these sweeping advances have come about not because of governments, committee resolutions, or central directives, although all these have played a part, but instead because millions of people around the world have wanted them.",
+        "ipa": "/rɪˈmɑːkəbli, ˈmɛni əv ðiːz ˈswiːpɪŋ ədˈvɑːnsɪz hæv kʌm əˈbaʊt nɒt bɪˈkɒz əv ˈɡʌvənmənts, kəˈmɪti ˌrɛzəˈluːʃənz, ɔː ˈsɛntrəl dɪˈrɛktɪvz, ɔːl ˈðoʊ ðiːz hæv pleɪd ə pɑːt, bʌt ɪnˈstɛd bɪˈkɒz ˈmɪljənz əv ˈpiːpl əˈraʊnd ðə wɜːld hæv ˈwɒntɪd ðɛm/",
+        "analysis": {
+          "purpose": "Emphasize grassroots change",
+          "tone": "Inspirational"
+        }
+      },
+      {
+        "text": "For the United Nations, these subtle yet significant changes in people's approach to leadership and power might have foreshadowed failure and demise.",
+        "ipa": "/fɔː ðə juːˈnaɪtɪd ˈneɪʃənz, ðiːz ˈsʌtl jɛt sɪɡˈnɪfɪkənt ʧeɪnʤɪz ɪn ˈpiːplz əˈprəʊʧ tuː ˈliːdəʃɪp ænd ˈpaʊə maɪt hæv fɔːˈʃædəʊd ˈfeɪljər ænd dɪˈmaɪz/",
+        "analysis": {
+          "purpose": "Highlight challenges faced by the UN",
+          "tone": "Candid"
+        }
+      },
+      {
+        "text": "Instead, the United Nations has grown and prospered by responding and adapting to those shifts.",
+        "ipa": "/ɪnˈstɛd, ðə juːˈnaɪtɪd ˈneɪʃənz hæz ɡrəʊn ænd ˈprɒspəd baɪ rɪsˈpɒndɪŋ ænd əˈdæptɪŋ tuː ðəʊz ʃɪfts/",
+        "analysis": {
+          "purpose": "Celebrate resilience of the UN",
+          "theme": "Adaptation"
+        }
+      },
+      {
+        "text": "But also, many important things have not changed.",
+        "ipa": "/bʌt ˈɔːlsəʊ, ˈmɛni ɪmˈpɔːtənt θɪŋz hæv nɒt ʧeɪnʤd/",
+        "analysis": {
+          "purpose": "Contrast change with continuity",
+          "tone": "Balanced"
+        }
+      },
+      {
+        "text": "The aims and values which inspired the United Nations charter endure to promote international peace, security, and justice to relieve and remove the blight of hunger, poverty, and disease, and to protect the rights and liberties of every citizen.",
+        "ipa": "/ði eɪmz ænd ˈvæljuːz wɪʧ ɪnˈspaɪəd ðə juːˈnaɪtɪd ˈneɪʃənz ˈʧɑːtər ɪnˈdjʊə tuː prəˈməʊt ˌɪntəˈnæʃənl piːs, sɪˈkjʊərɪti, ænd ˈʤʌstɪs tuː rɪˈliːv ænd rɪˈmuːv ðə blaɪt əv ˈhʌŋɡə, ˈpɒvəti, ænd dɪˈziːz, ænd tuː prəˈtɛkt ðə raɪts ænd ˈlɪbətiz əv ˈɛvri ˈsɪtɪzən/",
+        "analysis": {
+          "purpose": "Reiterate UN’s foundational principles",
+          "theme": "Human rights"
+        }
+      },
+      {
+        "text": "The achievements of the United Nations are remarkable.",
+        "ipa": "/ðə əˈʧiːvmənts əv ðə juːˈnaɪtɪd ˈneɪʃənz ɑː rɪˈmɑːkəbl/",
+        "analysis": {
+          "purpose": "Acknowledge successes",
+          "tone": "Proud"
+        }
+      },
+      {
+        "text": "When I was first here, there were just three United Nations operations overseas.",
+        "ipa": "/wɛn aɪ wɒz fɜːst hɪər, ðɛə wɜː ʤʌst θriː juːˈnaɪtɪd ˈneɪʃənz ˌɒpəˈreɪʃənz ˈəʊvəˈsiːz/",
+        "analysis": {
+          "purpose": "Provide historical context",
+          "theme": "Growth"
+        }
+      },
+      {
+        "text": "Now, over 120,000 men and women are deployed in 26 missions across the world.",
+        "ipa": "/naʊ, ˈəʊvə ˈwʌn ˈhʌndrəd ænd ˈtwɛnti ˈθaʊzənd mɛn ænd ˈwɪmɪn ɑː dɪˈplɔɪd ɪn ˈtwɛnti sɪks ˈmɪʃənz əˈkrɒs ðə wɜːld/",
+        "analysis": {
+          "purpose": "Highlight current UN efforts",
+          "theme": "Global impact"
+        }
+      },
+      {
+        "text": "You have helped to reduce conflict.",
+        "ipa": "/juː hæv hɛlpt tuː rɪˈdjuːs ˈkɒnflɪkt/",
+        "analysis": {
+          "purpose": "Recognize contributions to peace",
+          "tone": "Appreciative"
+        }
+      },
+      {
+        "text": "You have offered humanitarian assistance to millions of people affected by natural disasters and other emergencies.",
+        "ipa": "/juː hæv ˈɒfəd hjuːˌmænɪˈtɛəriən əˈsɪstəns tuː ˈmɪljənz əv ˈpiːpl əˈfɛktɪd baɪ ˈnæʧrəl dɪˈzɑːstəz ænd ˈʌðər ɪˈmɜːʤənsiz/",
+        "analysis": {
+          "purpose": "Celebrate humanitarian efforts",
+          "theme": "Compassion"
+        }
+      },
+      {
+        "text": "And you have been deeply committed to tackling the effects of poverty in many parts of the world.",
+        "ipa": "/ænd juː hæv biːn ˈdiːpli kəˈmɪtɪd tuː ˈtæklɪŋ ði ɪˈfɛkts əv ˈpɒvəti ɪn ˈmɛni pɑːts əv ðə wɜːld/",
+        "analysis": {
+          "purpose": "Acknowledge commitment to global issues",
+          "theme": "Social justice"
+        }
+      },
+      {
+        "text": "But so much remains to be done.",
+        "ipa": "/bʌt səʊ mʌʧ rɪˈmeɪnz tuː biː dʌn/",
+        "analysis": {
+          "purpose": "Call for continued effort",
+          "tone": "Urgent"
+        }
+      },
+      {
+        "text": "Former Secretary General Doug Hammersheld once said that constant attention by a good nurse may be just as important as a major operation by our surgeon.",
+        "ipa": "/ˈfɔːmə ˈsɛkrətəri ˈʤɛnərəl dʌɡ ˈhæməʃɛld wʌns sɛd ðæt ˈkɒnstənt əˈtɛnʃən baɪ ə ɡʊd nɜːs meɪ biː ʤʌst æz ɪmˈpɔːtənt æz ə ˈmeɪʤər ˌɒpəˈreɪʃən baɪ ˈaʊə ˈsɜːʤən/",
+        "analysis": {
+          "purpose": "Introduce a quote for emphasis",
+          "tone": "Reflective"
+        }
+      },
+      {
+        "text": "Good nurses get better with practice.",
+        "ipa": "/ɡʊd ˈnɜːsɪz ɡɛt ˈbɛtə wɪð ˈpræktɪs/",
+        "analysis": {
+          "purpose": "Emphasize importance of care",
+          "theme": "Healthcare"
+        }
+      },
+      {
+        "text": "Sadly, the supply of patients never ceases.",
+        "ipa": "/ˈsædli, ðə səˈplaɪ əv ˈpeɪʃənts ˈnɛvə ˈsiːzɪz/",
+        "analysis": {
+          "purpose": "Highlight ongoing challenges in healthcare",
+          "tone": "Candid"
+        }
+      },
+      {
+        "text": "This September, leaders will meet to agree how to achieve the millennium development goals, when each nation will have its own distinctive contribution to make.",
+        "ipa": "/ðɪs sɛpˈtɛmbə, ˈliːdəz wɪl miːt tuː əˈɡriː haʊ tuː əˈʧiːv ðə mɪˈlɛniəm dɪˈvɛləpmənt ɡəʊlz, wɛn iːʧ ˈneɪʃən wɪl hæv ɪts əʊn dɪsˈtɪŋktɪv ˌkɒntrɪˈbjuːʃən tuː meɪk/",
+        "analysis": {
+          "purpose": "Mention upcoming discussions on global goals",
+          "theme": "International cooperation"
+        }
+      },
+      {
+        "text": "New challenges have also emerged, which have tested this organization as much as its member states.",
+        "ipa": "/njuː ˈʧælɪnʤɪz hæv ˈɔːlsəʊ ɪˈmɜːʤd, wɪʧ hæv ˈtɛstɪd ðɪs ˌɔːɡənaɪˈzeɪʃən æz mʌʧ æz ɪts ˈmɛmbə steɪts/",
+        "analysis": {
+          "purpose": "Acknowledge new global challenges",
+          "tone": "Serious"
+        }
+      },
+      {
+        "text": "One such is the struggle against terrorism.",
+        "ipa": "/wʌn sʌʧ ɪz ðə ˈstrʌɡl əˈɡɛnst ˈtɛrərɪzəm/",
+        "analysis": {
+          "purpose": "Identify specific global issues",
+          "theme": "Security"
+        }
+      },
+      {
+        "text": "Another challenge is climate change.",
+        "ipa": "/əˈnʌðə ˈʧælɪnʤ ɪz ˈklaɪmɪt ʧeɪnʤ/",
+        "analysis": {
+          "purpose": "Highlight environmental concerns",
+          "theme": "Sustainability"
+        }
+      },
+      {
+        "text": "Where careful account must be taken of the risks faced by smaller, more vulnerable nations, many of them from the Commonwealth.",
+        "ipa": "/wɛə ˈkeəfʊl əˈkaʊnt mʌst biː ˈteɪkən əv ðə rɪsks feɪst baɪ ˈsmɔːlə, mɔːr ˈvʌlnərəbl ˈneɪʃənz, ˈmɛni əv ðɛm frɒm ðə ˈkɒmənwelθ/",
+        "analysis": {
+          "purpose": "Emphasize responsibility towards vulnerable nations",
+          "theme": "Global equity"
+        }
+      },
+      {
+        "text": "As to President, I started by talking about leadership.",
+        "ipa": "/æz tuː ˈprɛzɪdənt, aɪ ˈstɑːtɪd baɪ ˈtɔːkɪŋ əˈbaʊt ˈliːdəʃɪp/",
+        "analysis": {
+          "purpose": "Transition to discussion on leadership",
+          "tone": "Authoritative"
+        }
+      },
+      {
+        "text": "I have much admiration for those who have the talent to lead, particularly in public service and in diplomatic life.",
+        "ipa": "/aɪ hæv mʌʧ ˌædməˈreɪʃən fɔː ðəʊz huː hæv ðə ˈtælənt tuː liːd, pəˈtɪkjʊləli ɪn ˈpʌblɪk ˈsɜːvɪs ænd ɪn ˌdɪpləˈmætɪk laɪf/",
+        "analysis": {
+          "purpose": "Acknowledge effective leadership",
+          "tone": "Respectful"
+        }
+      },
+      {
+        "text": "And I congratulate you, your colleagues and your predecessors on your many achievements.",
+        "ipa": "/ænd aɪ kənˈɡrætjʊleɪt juː, jɔː ˈkɒliːɡz ænd jɔː ˈpriːdɪsɛsəz ɒn jɔː ˈmɛni əˈʧiːvmənts/",
+        "analysis": {
+          "purpose": "Recognize the work of others",
+          "tone": "Gracious"
+        }
+      },
+      {
+        "text": "It has perhaps always been the case that the waging of peace is the hardest form of leadership of all.",
+        "ipa": "/ɪt hæz pəˈhæps ˈɔːlweɪz biːn ðə keɪs ðæt ðə ˈweɪʤɪŋ əv piːs ɪz ðə ˈhɑːdɪst fɔːm əv ˈliːdəʃɪp əv ɔːl/",
+        "analysis": {
+          "purpose": "Highlight challenges of leadership",
+          "theme": "Peace"
+        }
+      },
+      {
+        "text": "I know of no single formula for success.",
+        "ipa": "/aɪ nəʊ əv nəʊ ˈsɪŋɡəl ˈfɔːmjʊlə fɔː səkˈsɛs/",
+        "analysis": {
+          "purpose": "Acknowledge complexity of success",
+          "tone": "Candid"
+        }
+      },
+      {
+        "text": "But over the years, I have observed that some attributes of leadership are universal and are often about finding ways of encouraging people to combine their efforts, their talents, their insights, their enthusiasm and their inspiration to work together.",
+        "ipa": "/bʌt ˈəʊvə ðə jɪəz, aɪ hæv əbˈzɜːvd ðæt sʌm ˈætrɪbjuːts əv ˈliːdəʃɪp ɑːr ˌjuːnɪˈvɜːsəl ænd ɑːr ˈɒfən əˈbaʊt ˈfaɪndɪŋ weɪz əv ɪnˈkʌrɪʤɪŋ ˈpiːpl tuː kəmˈbaɪn ðeər ˈɛfəts, ðeər ˈtælənts, ðeər ˈɪnsaɪts, ðeər ɪnˈθjuːziæzəm ænd ðeər ˌɪnspəˈreɪʃən tuː wɜːk təˈɡɛðə/",
+        "analysis": {
+          "purpose": "Define key leadership qualities",
+          "theme": "Collaboration"
+        }
+      },
+      {
+        "text": "Since I addressed you last, the Commonwealth too has grown vigorously, to become a group of nations representing nearly 2 billion people.",
+        "ipa": "/sɪns aɪ əˈdrɛst juː lɑːst, ðə ˈkɒmənwelθ tuː hæz ɡrəʊn ˈvɪɡərəsli, tuː bɪˈkʌm ə ɡruːp əv ˈneɪʃənz ˌrɛprɪˈzɛntɪŋ ˈnɪəli tuː ˈbɪljən ˈpiːpl/",
+        "analysis": {
+          "purpose": "Celebrate growth of the Commonwealth",
+          "theme": "Unity"
+        }
+      },
+      {
+        "text": "It gives its wholehearted support to the significant contributions to the peace and stability of the world made by the United Nations and its agencies.",
+        "ipa": "/ɪt ɡɪvz ɪts ˈhəʊlˈhɑːtɪd səˈpɔːt tuː ðə sɪɡˈnɪfɪkənt ˌkɒntrɪˈbjuːʃənz tuː ðə piːs ænd stəˈbɪlɪti əv ðə wɜːld meɪd baɪ ðə juːˈnaɪtɪd ˈneɪʃənz ænd ɪts ˈeɪʤənsiz/",
+        "analysis": {
+          "purpose": "Reinforce Commonwealth's role in global stability",
+          "tone": "Supportive"
+        }
+      },
+      {
+        "text": "Last November, when I opened the Commonwealth's heads of government meeting in Trinidad and Tobago, I told the delegates that the Commonwealth had the opportunity to lead.",
+        "ipa": "/lɑːst nəʊˈvɛmbə, wɛn aɪ ˈəʊpənd ðə ˈkɒmənwelθs hɛdz əv ˈɡʌvənmənt ˈmiːtɪŋ ɪn ˈtrɪnɪdæd ænd təˈbeɪɡəʊ, aɪ təʊld ðə ˈdɛlɪɡəts ðæt ðə ˈkɒmənwelθ hæd ði ˌɒpəˈtjuːnɪti tuː liːd/",
+        "analysis": {
+          "purpose": "Encourage leadership within the Commonwealth",
+          "tone": "Encouraging"
+        }
+      },
+      {
+        "text": "Today, I offer you the same message.",
+        "ipa": "/təˈdeɪ, aɪ ˈɒfə juː ðə seɪm ˈmɛsɪʤ/",
+        "analysis": {
+          "purpose": "Reiterate call for leadership",
+          "tone": "Motivational"
+        }
+      },
+      {
+        "text": "For over six decades, the United Nations has helped to shape the international response to global dangers.",
+        "ipa": "/fɔːr ˈəʊvə sɪks ˈdɛkeɪdz, ðə juːˈnaɪtɪd ˈneɪʃənz hæz hɛlpt tuː ʃeɪp ði ˌɪntəˈnæʃənl rɪsˈpɒns tuː ˈɡləʊbəl ˈdeɪnʤəz/",
+        "analysis": {
+          "purpose": "Acknowledge the UN's role in global governance",
+          "tone": "Respectful"
+        }
+      },
+      {
+        "text": "The challenge now is to continue to show this clear and convening leadership while not losing sight of your ongoing work to secure the security, prosperity and dignity of our fellow human beings.",
+        "ipa": "/ðə ˈʧælɪnʤ naʊ ɪz tuː kənˈtɪnjuː tuː ʃəʊ ðɪs klɪər ænd kənˈviːnɪŋ ˈliːdəʃɪp waɪl nɒt ˈluːzɪŋ saɪt əv jɔːr ˈɒnˌɡəʊɪŋ wɜːk tuː sɪˈkjʊə ðə sɪˈkjʊərɪti, prɒsˈpɛrɪti ænd ˈdɪɡnɪti əv ˈaʊə ˈfɛləʊ ˈhjuːmən ˈbiːɪŋz/",
+        "analysis": {
+          "purpose": "Encourage continued leadership",
+          "theme": "Human rights"
+        }
+      },
+      {
+        "text": "When people in 53 years from now look back on us, they will doubtless view many of our practices as old fashioned.",
+        "ipa": "/wɛn ˈpiːpl ɪn ˈfɪfti θriː jɪəz frɒm naʊ lʊk bæk ɒn ʌs, ðeɪ wɪl ˈdaʊtlɪs vjuː ˈmɛni əv ˈaʊə ˈpræktɪsɪz æz əʊld ˈfæʃənd/",
+        "analysis": {
+          "purpose": "Reflect on future perceptions",
+          "tone": "Contemplative"
+        }
+      },
+      {
+        "text": "But it is my hope that when judged by future generations, our sincerity, our willingness to take a lead and our determination to do the right thing will stand the test of time.",
+        "ipa": "/bʌt ɪt ɪz maɪ həʊp ðæt wɛn ʤʌʤd baɪ ˈfjuːʧə ˌʤɛnəˈreɪʃənz, ˈaʊə sɪnˈsɛrɪti, ˈaʊə ˈwɪlɪŋnɪs tuː teɪk ə liːd ænd ˈaʊə dɪˌtɜːmɪˈneɪʃən tuː duː ðə raɪt θɪŋ wɪl stænd ðə tɛst əv taɪm/",
+        "analysis": {
+          "purpose": "Express hope for lasting values",
+          "tone": "Hopeful"
+        }
+      },
+      {
+        "text": "In my lifetime, the United Nations has moved from being a high-minded aspiration to being a real force for common good.",
+        "ipa": "/ɪn maɪ ˈlaɪftaɪm, ðə juːˈnaɪtɪd ˈneɪʃənz hæz muːvd frɒm ˈbiːɪŋ ə ˈhaɪ-ˈmaɪndɪd ˌæspəˈreɪʃən tuː ˈbiːɪŋ ə riːl fɔːs fɔː ˈkɒmən ɡʊd/",
+        "analysis": {
+          "purpose": "Highlight the UN's evolution",
+          "tone": "Proud"
+        }
+      },
+      {
+        "text": "That of itself has been a signal achievement.",
+        "ipa": "/ðæt əv ɪtˈsɛlf hæz biːn ə ˈsɪɡnəl əˈʧiːvmənt/",
+        "analysis": {
+          "purpose": "Celebrate progress",
+          "tone": "Affirmative"
+        }
+      },
+      {
+        "text": "But we are not gathered here to reminisce.",
+        "ipa": "/bʌt wiː ɑː nɒt ˈɡæðəd hɪər tuː ˌrɛmɪˈnɪs/",
+        "analysis": {
+          "purpose": "Focus on current and future actions",
+          "tone": "Forward-looking"
+        }
+      },
+      {
+        "text": "In tomorrow's world, we must all work together as hard as ever if we are truly to be United Nations.",
+        "ipa": "/ɪn təˈmɒrəʊz wɜːld, wiː mʌst ɔːl wɜːk təˈɡɛðər æz hɑːd æz ˈɛvər ɪf wiː ɑː ˈtruːli tuː biː juːˈnaɪtɪd ˈneɪʃənz/",
+        "analysis": {
+          "purpose": "Call for collaboration",
+          "tone": "Urgent"
+        }
+      }
+    ],
+    "summary_analysis": {
+      "primary_themes": [
+        "Global cooperation",
+        "Leadership and responsibility",
+        "Hope for the future"
+      ],
+      "rhetorical_strategies": [
+        "Historical references",
+        "Direct address",
+        "Call to action"
+      ],
+      "contemporary_relevance": {
+        "2010_context": "Post-financial crisis, global challenges",
+        "modern_parallels": [
+          "International collaboration",
+          "Human rights advocacy",
+          "Sustainability efforts"
+        ]
+      }
+    }
+  }
+}

@@ -15,294 +15,336 @@
         "text": "Happy Christmas.",
         "analysis": {
           "purpose": "Open with a festive greeting",
-          "tone": "Joyful"
+          "tone": "Joyful",
+          "ipa_transcription": "/ˈhæpi ˈkrɪsməs./"
         }
       },
       {
         "text": "25 years ago, my grandfather broadcast the first of these Christmas messages.",
         "analysis": {
           "purpose": "Acknowledge tradition",
-          "theme": "Legacy"
+          "theme": "Legacy",
+          "ipa_transcription": "/ˈtwɛnti faɪv jɪəz əˈɡəʊ, maɪ ˈɡrændˌfɑːðə ˈbrɔːdkɑːst ðə fɜːst əv ðiːz ˈkrɪsməs ˈmɛsɪdʒɪz./"
         }
       },
       {
         "text": "Today is another landmark, because television has made it possible for many of you to see me in your homes on Christmas Day.",
         "analysis": {
           "purpose": "Highlight technological progress",
-          "tone": "Reflective"
+          "tone": "Reflective",
+          "ipa_transcription": "/təˈdeɪ ɪz əˈnʌðə ˈlændmɑːk, bɪˈkɒz ˈtɛlɪvɪʒən hæz meɪd ɪt ˈpɒsəbl fɔː ˈmɛni əv juː tə siː miː ɪn jɔː həʊmz ɒn ˈkrɪsməs deɪ./"
         }
       },
       {
         "text": "My own family often gather around to watch television as they are at this moment, and that is how I imagine you now.",
         "analysis": {
           "purpose": "Create a sense of connection",
-          "tone": "Intimate"
+          "tone": "Intimate",
+          "ipa_transcription": "/maɪ əʊn ˈfæmɪli ˈɒfən ˈɡæðər əˈraʊnd tə wɒtʃ ˈtɛlɪvɪʒən æz ðeɪ ɑːr æt ðɪs ˈməʊmənt, ænd ðæt ɪz haʊ aɪ ɪˈmædʒɪn juː naʊ./"
         }
       },
       {
         "text": "I very much hope that this new medium will make my Christmas message more personal and direct.",
         "analysis": {
           "purpose": "Express hope for engagement",
-          "tone": "Optimistic"
+          "tone": "Optimistic",
+          "ipa_transcription": "/aɪ ˈvɛri mʌtʃ həʊp ðæt ðɪs njuː ˈmiːdiəm wɪl meɪk maɪ ˈkrɪsməs ˈmɛsɪdʒ mɔː ˈpɜːsənl ænd dɪˈrɛkt./"
         }
       },
       {
         "text": "It is inevitable that I should seem a rather remote figure to many of you, a successor to the kings and queens of history, someone whose face may be familiar in newspapers and films, but who never really touches your personal lives.",
         "analysis": {
           "purpose": "Acknowledge perceived distance",
-          "tone": "Candid"
+          "tone": "Candid",
+          "ipa_transcription": "/ɪt ɪz ɪnˈɛvɪtəbl ðæt aɪ ʃʊd siːm ə ˈrɑːðə rɪˈməʊt ˈfɪɡə tə ˈmɛni əv juː, ə səkˈsɛsə tə ðə kɪŋz ænd kwiːnz əv ˈhɪstəri, ˈsʌmwʌn huːz feɪs meɪ biː fəˈmɪliər ɪn ˈnjuːzpeɪpəz ænd fɪlmz, bʌt huː ˈnɛvə ˈrɪəli ˈtʌtʃɪz jɔː ˈpɜːsənl laɪvz./"
         }
       },
       {
-        "text": "But now, at least for a few minutes, I welcome you to the piece of my own home.",
+        "text": "But now, at least for a few minutes, I welcome you to the peace of my own home.",
         "analysis": {
           "purpose": "Invite intimacy",
-          "tone": "Welcoming"
+          "tone": "Welcoming",
+          "ipa_transcription": "/bʌt naʊ, æt liːst fɔːr ə fjuː ˈmɪnɪts, aɪ ˈwɛlkəm juː tə ðə piːs əv maɪ əʊn həʊm./"
         }
       },
       {
         "text": "That it is possible for some of you to see me today, is just another example of the speed at which things are changing all around us.",
         "analysis": {
           "purpose": "Comment on societal change",
-          "theme": "Progress"
+          "theme": "Progress",
+          "ipa_transcription": "/ðæt ɪt ɪz ˈpɒsəbl fɔː sʌm əv juː tə siː miː təˈdeɪ, ɪz dʒʌst əˈnʌðər ɪɡˈzɑːmpəl əv ðə spiːd æt wɪtʃ θɪŋz ɑː ˈtʃeɪndʒɪŋ ɔːl əˈraʊnd ʌs./"
         }
       },
       {
         "text": "Because of these changes, I am not surprised that many people feel lost and unable to decide what to hold on to and what to discard, how to take advantage of the new life without losing the best of the old.",
         "analysis": {
           "purpose": "Address feelings of uncertainty",
-          "tone": "Empathetic"
+          "tone": "Empathetic",
+          "ipa_transcription": "/bɪˈkɒz əv ðiːz ˈtʃeɪndʒɪz, aɪ æm nɒt səˈpraɪzd ðæt ˈmɛni ˈpiːpl fiːl lɒst ænd ʌnˈeɪbl tə dɪˈsaɪd wɒt tə həʊld ɒn tə ænd wɒt tə dɪsˈkɑːd, haʊ tə teɪk ədˈvɑːntɪdʒ əv ðə njuː laɪf wɪˈðaʊt ˈluːzɪŋ ðə bɛst əv ði əʊld./"
         }
       },
       {
         "text": "But it is not the new inventions which are the difficulty.",
         "analysis": {
           "purpose": "Clarify the source of modern challenges",
-          "theme": "Reflection"
+          "theme": "Reflection",
+          "ipa_transcription": "/bʌt ɪt ɪz nɒt ðə njuː ɪnˈvɛnʃənz wɪtʃ ɑː ðə ˈdɪfɪkəlti./"
         }
       },
       {
         "text": "The trouble is caused by unthinking people who carelessly throw away ageless ideals as if they were old and outworn machinery.",
         "analysis": {
           "purpose": "Critique societal attitudes",
-          "tone": "Critical"
+          "tone": "Critical",
+          "ipa_transcription": "/ðə ˈtrʌbl ɪz kɔːzd baɪ ʌnˈθɪŋkɪŋ ˈpiːpl huː ˈkeəlɪsli θrəʊ əˈweɪ ˈeɪdʒlɪs aɪˈdɪəlz æz ɪf ðeɪ wɜːr əʊld ænd ˈaʊtwɔːn məˈʃiːnəri./"
         }
       },
       {
         "text": "They would have religion thrown aside, morality and personal and public life made meaningless, honest day-counted as foolishness, and self-interest set up in place of self-restraint.",
         "analysis": {
           "purpose": "Highlight moral concerns",
-          "theme": "Values"
+          "theme": "Values",
+          "ipa_transcription": "/ðeɪ wʊd hæv rɪˈlɪdʒən θrəʊn əˈsaɪd, məˈrælɪti ænd ˈpɜːsənl ænd ˈpʌblɪk laɪf meɪd ˈmiːnɪŋlɪs, ˈɒnɪst deɪ-ˈkaʊntɪd æz ˈfuːlɪʃnɪs, ænd sɛlf-ˈɪntrɪst sɛt ʌp ɪn pleɪs əv sɛlf-rɪˈstreɪnt./"
         }
       },
       {
         "text": "At this critical moment in our history, we will certainly lose the trust and respect of the world, if we just abandon those fundamental principles which guided the men and women who built a greatness of this country and Commonwealth.",
         "analysis": {
           "purpose": "Warn against losing foundational values",
-          "tone": "Urgent"
+          "tone": "Urgent",
+          "ipa_transcription": "/æt ðɪs ˈkrɪtɪkəl ˈməʊmənt ɪn ˈaʊər ˈhɪstəri, wiː wɪl ˈsɜːtnli luːz ðə trʌst ænd rɪsˈpɛkt əv ðə wɜːld, ɪf wiː dʒʌst əˈbændən ðəʊz ˌfʌndəˈmɛntl ˈprɪnsəplz wɪtʃ ˈɡaɪdɪd ðə mɛn ænd ˈwɪmɪn huː bɪlt ə ˈɡreɪtnɪs əv ðɪs ˈkʌntri ænd ˈkɒmənwelθ./"
         }
       },
       {
         "text": "Today, we need a special kind of courage, not a kind needed in battle, but a kind which makes us stand up for everything that we know is right, everything that is true and honest.",
         "analysis": {
           "purpose": "Call for moral courage",
-          "tone": "Inspirational"
+          "tone": "Inspirational",
+          "ipa_transcription": "/təˈdeɪ, wiː niːd ə ˈspɛʃəl kaɪnd əv ˈkʌrɪdʒ, nɒt ə kaɪnd ˈniːdɪd ɪn ˈbætl, bʌt ə kaɪnd wɪtʃ meɪks ʌs stænd ʌp fɔːr ˈɛvrɪθɪŋ ðæt wiː nəʊ ɪz raɪt, ˈɛvrɪθɪŋ ðæt ɪz truː ænd ˈɒnɪst./"
         }
       },
       {
         "text": "We need the kind of courage that can withstand the subtle corruption of the cynics, so that we can show the world that we are not afraid of the future.",
         "analysis": {
           "purpose": "Encourage resilience",
-          "theme": "Hope"
+          "theme": "Hope",
+          "ipa_transcription": "/wiː niːd ðə kaɪnd əv ˈkʌrɪdʒ ðæt kæn wɪðˈstænd ðə ˈsʌtl kəˈrʌpʃən əv ðə ˈsɪnɪks, səʊ ðæt wiː kæn ʃəʊ ðə wɜːld ðæt wiː ɑːr nɒt əˈfreɪd əv ðə ˈfjuːtʃə./"
         }
       },
       {
         "text": "It has always been easy to hate and destroy.",
         "analysis": {
           "purpose": "Contrast destruction with creation",
-          "tone": "Thoughtful"
+          "tone": "Thoughtful",
+          "ipa_transcription": "/ɪt hæz ˈɔːlweɪz biːn ˈiːzi tə heɪt ænd dɪˈstrɔɪ./"
         }
       },
       {
-        "text": "The build and to cherish is much more difficult.",
+        "text": "To build and to cherish is much more difficult.",
         "analysis": {
           "purpose": "Emphasize the value of constructive action",
-          "tone": "Reflective"
+          "tone": "Reflective",
+          "ipa_transcription": "/tə bɪld ænd tə ˈtʃɛrɪʃ ɪz mʌtʃ mɔː ˈdɪfɪkəlt./"
         }
       },
       {
         "text": "That's why we can take a pride in the new Commonwealth we are building.",
         "analysis": {
           "purpose": "Celebrate the Commonwealth",
-          "theme": "Unity"
+          "theme": "Unity",
+          "ipa_transcription": "/ðæts waɪ wiː kæn teɪk ə praɪd ɪn ðə njuː ˈkɒmənwelθ wiː ɑːr ˈbɪldɪŋ./"
         }
       },
       {
         "text": "This year, Ghana and Malaya joined our brotherhood.",
         "analysis": {
           "purpose": "Acknowledge recent additions to the Commonwealth",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/ðɪs jɪə, ˈɡɑːnə ænd məˈleɪə dʒɔɪnd ˈaʊə ˈbrʌðəhʊd./"
         }
       },
       {
         "text": "Both these countries are entirely self-governing.",
         "analysis": {
           "purpose": "Highlight autonomy",
-          "theme": "Independence"
+          "theme": "Independence",
+          "ipa_transcription": "/bəʊθ ðiːz ˈkʌntriz ɑːr ɪnˈtaɪəli sɛlf-ˈɡʌvənɪŋ./"
         }
       },
       {
         "text": "Both achieved their new status amicably and peacefully.",
         "analysis": {
           "purpose": "Celebrate peaceful transitions",
-          "tone": "Optimistic"
+          "tone": "Optimistic",
+          "ipa_transcription": "/bəʊθ əˈtʃiːvd ðeə njuː ˈsteɪtəs ˈæmɪkəbli ænd ˈpiːsfʊli./"
         }
       },
       {
         "text": "This advance is a wonderful tribute to the efforts of men of goodwill who have worked together as friends, and I welcome these two countries with all my heart.",
         "analysis": {
           "purpose": "Express gratitude for cooperation",
-          "tone": "Warm"
+          "tone": "Warm",
+          "ipa_transcription": "/ðɪs ədˈvɑːns ɪz ə ˈwʌndəfʊl ˈtrɪbjuːt tə ði ˈɛfəts əv mɛn əv ɡʊdˈwɪl huː hæv wɜːkt təˈɡeðər æz frɛndz, ænd aɪ ˈwɛlkəm ðiːz tuː ˈkʌntriz wɪð ɔːl maɪ hɑːt./"
         }
       },
       {
         "text": "Last October, I opened the new Canadian Parliament, and as you know, this was the first time that any sovereign had done so in Ottawa.",
         "analysis": {
           "purpose": "Highlight a historical milestone",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/lɑːst ɒkˈtəʊbə, aɪ ˈəʊpənd ðə njuː kəˈneɪdiən ˈpɑːləmənt, ænd æz juː nəʊ, ðɪs wɒz ðə fɜːst taɪm ðæt ˈɛni ˈsɒvrɪn hæd dʌn səʊ ɪn ˈɒtəwə./"
         }
       },
       {
         "text": "Once again, I was overwhelmed by the loyalty and enthusiasm of my Canadian people.",
         "analysis": {
           "purpose": "Acknowledge Canadian support",
-          "tone": "Grateful"
+          "tone": "Grateful",
+          "ipa_transcription": "/wʌns əˈɡeɪn, aɪ wɒz ˌəʊvəˈwɛlmd baɪ ðə ˈlɔɪəlti ænd ɪnˈθjuːziæzəm əv maɪ kəˈneɪdiən ˈpiːpl./"
         }
       },
       {
         "text": "Also during 1957, my husband and I paid visits to Portugal, France, Denmark and the United States of America.",
         "analysis": {
           "purpose": "Detail travels and engagements",
-          "tone": "Informative"
+          "tone": "Informative",
+          "ipa_transcription": "/ˈɔːlsəʊ ˈdjʊərɪŋ ˈnaɪntiːn ˈfɪfti ˈsɛvən, maɪ ˈhʌzbənd ænd aɪ peɪd ˈvɪzɪts tə ˈpɔːtʃʊɡəl, frɑːns, ˈdɛnmɑːk ænd ði juːˈnaɪtɪd steɪts əv əˈmɛrɪkə./"
         }
       },
       {
         "text": "In each case, the arrangements and formalities were managed with great skill, but no one could have managed the welcome we received from the people.",
         "analysis": {
           "purpose": "Highlight hospitality",
-          "tone": "Appreciative"
+          "tone": "Appreciative",
+          "ipa_transcription": "/ɪn iːtʃ keɪs, ði əˈreɪndʒmənts ænd fɔːˈmælɪtiz wɜː ˈmænɪdʒd wɪð ɡreɪt skɪl, bʌt nəʊ wʌn kʊd hæv ˈmænɪdʒd ðə ˈwɛlkəm wiː rɪˈsiːvd frɒm ðə ˈpiːpl./"
         }
       },
       {
         "text": "In each country, I was welcomed as head of the Commonwealth and as your representative.",
         "analysis": {
           "purpose": "Reinforce role as a leader",
-          "tone": "Humble"
+          "tone": "Humble",
+          "ipa_transcription": "/ɪn iːtʃ ˈkʌntri, aɪ wɒz ˈwɛlkəmd æz hɛd əv ðə ˈkɒmənwelθ ænd æz jɔː ˌrɛprɪˈzɛntətɪv./"
         }
       },
       {
         "text": "These nations are our friends, largely because we've always tried to do our best to be honest and kindly, and because we have tried to stand up for what we believed to be right.",
         "analysis": {
           "purpose": "Emphasize the importance of integrity",
-          "tone": "Reflective"
+          "tone": "Reflective",
+          "ipa_transcription": "/ðiːz ˈneɪʃənz ɑːr ˈaʊə frɛndz, ˈlɑːdʒli bɪˈkɒz wiːv ˈɔːlweɪz traɪd tə duː ˈaʊə bɛst tə biː ˈɒnɪst ænd ˈkaɪndli, ænd bɪˈkɒz wiː hæv traɪd tə stænd ʌp fɔː wɒt wiː bɪˈliːvd tə biː raɪt./"
         }
       },
       {
         "text": "In the old days, the monarch laid his soldiers on the battlefield, and his leadership at all times was close and personal.",
         "analysis": {
           "purpose": "Contrast historical and modern leadership",
-          "theme": "Evolution of monarchy"
+          "theme": "Evolution of monarchy",
+          "ipa_transcription": "/ɪn ði əʊld deɪz, ðə ˈmɒnək leɪd hɪz ˈsəʊldʒəz ɒn ðə ˈbætlfiːld, ænd hɪz ˈliːdəʃɪp æt ɔːl taɪmz wɒz kləʊs ænd ˈpɜːsənl./"
         }
       },
       {
         "text": "Today things are very different.",
         "analysis": {
           "purpose": "Acknowledge changes in role",
-          "tone": "Pragmatic"
+          "tone": "Pragmatic",
+          "ipa_transcription": "/təˈdeɪ θɪŋz ɑːr ˈvɛri ˈdɪfrənt./"
         }
       },
       {
         "text": "I cannot lead you into battle.",
         "analysis": {
           "purpose": "Clarify limitations of her role",
-          "tone": "Candid"
+          "tone": "Candid",
+          "ipa_transcription": "/aɪ ˈkænɒt liːd juː ˈɪntə ˈbætl./"
         }
       },
       {
-        "text": "I do not give you laws or minister justice, but I can do something else.",
+        "text": "I do not give you laws or administer justice, but I can do something else.",
         "analysis": {
           "purpose": "Define her contributions",
-          "tone": "Determined"
+          "tone": "Determined",
+          "ipa_transcription": "/aɪ duː nɒt ɡɪv juː lɔːz ɔːr ədˈmɪnɪstə ˈdʒʌstɪs, bʌt aɪ kæn duː ˈsʌmθɪŋ ɛls./"
         }
       },
       {
         "text": "I can give you my heart and my devotion to these old islands and to all the peoples of our brotherhood of nations.",
         "analysis": {
           "purpose": "Express commitment to her role",
-          "tone": "Sincere"
+          "tone": "Sincere",
+          "ipa_transcription": "/aɪ kæn ɡɪv juː maɪ hɑːt ænd maɪ dɪˈvəʊʃən tə ðiːz əʊld ˈaɪləndz ænd tə ɔːl ðə ˈpiːplz əv ˈaʊə ˈbrʌðəhʊd əv ˈneɪʃənz./"
         }
       },
       {
         "text": "I believe in our qualities and in our strength.",
         "analysis": {
           "purpose": "Instill confidence",
-          "tone": "Inspirational"
+          "tone": "Inspirational",
+          "ipa_transcription": "/aɪ bɪˈliːv ɪn ˈaʊə ˈkwɒlɪtiz ænd ɪn ˈaʊə strɛŋθ./"
         }
       },
       {
         "text": "I believe that together we can set an example to the world, which will encourage upright people everywhere.",
         "analysis": {
           "purpose": "Call for collective action",
-          "tone": "Motivational"
+          "tone": "Motivational",
+          "ipa_transcription": "/aɪ bɪˈliːv ðæt təˈɡeðər wiː kæn sɛt ən ɪɡˈzɑːmpəl tə ðə wɜːld, wɪtʃ wɪl ɪnˈkʌrɪdʒ ˈʌpraɪt ˈpiːpl ˈɛvrɪweə./"
         }
       },
       {
         "text": "I would like to read you a few lines from Pilgrim's Progress, because I'm sure we can say with Mr. Valiant for truth these words.",
         "analysis": {
           "purpose": "Introduce literary reference",
-          "tone": "Reflective"
+          "tone": "Reflective",
+          "ipa_transcription": "/aɪ wʊd laɪk tə riːd juː ə fjuː laɪnz frɒm ˈpɪlɡrɪmz ˈprəʊɡrɛs, bɪˈkɒz aɪm ʃʊə wiː kæn seɪ wɪð ˈmɪstə ˈvæliənt fɔː truːθ ðiːz wɜːdz./"
         }
       },
       {
-        "text": "Though with great difficulty, I am God hither.",
+        "text": "Though with great difficulty, I am got hither.",
         "analysis": {
           "purpose": "Highlight perseverance",
-          "tone": "Determined"
+          "tone": "Determined",
+          "ipa_transcription": "/ðəʊ wɪð ɡreɪt ˈdɪfɪkəlti, aɪ æm ɡɒt ˈhɪðə./"
         }
       },
       {
         "text": "Yet now I do not repent me of all the trouble I have been at to arrive where I am.",
         "analysis": {
           "purpose": "Express fulfillment",
-          "tone": "Content"
+          "tone": "Content",
+          "ipa_transcription": "/jɛt naʊ aɪ duː nɒt rɪˈpɛnt miː əv ɔːl ðə ˈtrʌbl aɪ hæv biːn æt tə əˈraɪv weər aɪ æm./"
         }
       },
       {
         "text": "My sword I give to him that shall succeed me in my pilgrimage and my courage and skill to him that can get it.",
         "analysis": {
           "purpose": "Symbolize legacy",
-          "theme": "Continuity"
+          "theme": "Continuity",
+          "ipa_transcription": "/maɪ sɔːd aɪ ɡɪv tə hɪm ðæt ʃæl səkˈsiːd miː ɪn maɪ ˈpɪlɡrɪmɪdʒ ænd maɪ ˈkʌrɪdʒ ænd skɪl tə hɪm ðæt kæn ɡɛt ɪt./"
         }
       },
       {
         "text": "My marks and scars I carry with me to be a witness for me, that I have fought his battles, who now will be my rewarder.",
         "analysis": {
           "purpose": "Acknowledge sacrifices made",
-          "tone": "Reflective"
+          "tone": "Reflective",
+          "ipa_transcription": "/maɪ mɑːks ænd skɑːz aɪ ˈkæri wɪð miː tə biː ə ˈwɪtnɪs fɔː miː, ðæt aɪ hæv fɔːt hɪz ˈbætlz, huː naʊ wɪl biː maɪ rɪˈwɔːdə./"
         }
       },
       {
         "text": "I hope that 1958 may bring you God's blessing and all the things you long for.",
         "analysis": {
           "purpose": "Extend best wishes for the coming year",
-          "tone": "Hopeful"
+          "tone": "Hopeful",
+          "ipa_transcription": "/aɪ həʊp ðæt ˈnaɪntiːn ˈfɪfti ˈeɪt meɪ brɪŋ juː ɡɒdz ˈblɛsɪŋ ænd ɔːl ðə θɪŋz juː lɒŋ fɔː./"
         }
       },
       {
         "text": "And so I wish you all, young and old, wherever you may be, all the fun and enjoyment and the peace of a very happy Christmas.",
         "analysis": {
           "purpose": "Conclude with warm wishes",
-          "tone": "Joyful"
+          "tone": "Joyful",
+          "ipa_transcription": "/ænd səʊ aɪ wɪʃ juː ɔːl, jʌŋ ænd əʊld, weərˈɛvə juː meɪ biː, ɔːl ðə fʌn ænd ɪnˈdʒɔɪmənt ænd ðə piːs əv ə ˈvɛri ˈhæpi ˈkrɪsməs./"
         }
       }
     ],

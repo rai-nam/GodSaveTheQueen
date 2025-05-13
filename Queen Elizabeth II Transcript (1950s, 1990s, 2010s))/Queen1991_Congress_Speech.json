@@ -1,0 +1,143 @@
+{
+    "speech": {
+      "metadata": {
+        "title": "Address to Joint Meeting of U.S. Congress",
+        "date": "1991",
+        "occasion": "State Visit to the United States",
+        "speaker": {
+          "name": "Queen Elizabeth II",
+          "role": "British Monarch",
+          "age": 65
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "I do hope you can see me today from way on. Thank you.",
+          "ipa": "/aɪ duː həʊp juː kæn siː miː təˈdeɪ frɒm weɪ ɒn. θæŋk juː/",
+          "analysis": {
+            "purpose": "Open with a greeting",
+            "tone": "Friendly, approachable"
+          }
+        },
+        {
+          "text": "As the speaker, Mr. President, distinguished members of Congress, I know what a rare privilege it is to address a joint meeting of your two houses. Thank you for inviting me.",
+          "ipa": "/æz ðə ˈspiːkə, ˈmɪstə ˈprɛzɪdənt, dɪˈstɪŋɡwɪʃt ˈmɛmbəz əv ˈkɒŋɡrɛs, aɪ nəʊ wɒt ə reə ˈprɪvəlɪdʒ ɪt ɪz tuː əˈdrɛs ə ʤɔɪnt ˈmiːtɪŋ əv jɔː tuː ˈhaʊzɪz. θæŋk juː fɔːr ɪnˈvaɪtɪŋ miː/",
+          "analysis": {
+            "purpose": "Acknowledge privilege and express gratitude",
+            "rhetorical_devices": ["Direct address", "Formal acknowledgment"],
+            "tone": "Respectful, formal"
+          }
+        },
+        {
+          "text": "The concept so simply described by Abraham Lincoln as government by the people of the people for the people is fundamental to our two nations.",
+          "ipa": "/ðə ˈkɒnsɛpt səʊ ˈsɪmpli dɪsˈkraɪbd baɪ ˈeɪbrəhæm ˈlɪŋkən æz ˈɡʌvənmənt baɪ ðə ˈpiːpl əv ðə ˈpiːpl fɔː ðə ˈpiːpl ɪz ˌfʌndəˈmɛntl̩ tuː aʊə tuː ˈneɪʃənz/",
+          "analysis": {
+            "purpose": "Establish shared democratic values",
+            "historical_reference": "Lincoln's Gettysburg Address",
+            "theme": "Democratic ideals"
+          }
+        },
+        {
+          "text": "Your Congress and our parliament are the twin pillars of our civilizations and the chief among the many treasures that we have inherited from our predecessors.",
+          "ipa": "/jɔː ˈkɒŋɡrɛs ænd aʊə ˈpɑːləmənt ɑː ðə twɪn ˈpɪləz əv aʊə ˌsɪvɪlaɪˈzeɪʃənz ænd ðə ʧiːf əˈmʌŋ ðə ˈmɛni ˈtrɛʒəz ðæt wiː hæv ɪnˈhɛrɪtɪd frɒm aʊə ˈpriːdɪsɛsəz/",
+          "analysis": {
+            "purpose": "Highlight the importance of legislative bodies",
+            "metaphors": ["twin pillars", "treasures inherited"],
+            "theme": "Cultural heritage"
+          }
+        },
+        {
+          "text": "We like you are staunch believers in the freedom of the individual and the rule of a fair and just law.",
+          "ipa": "/wiː laɪk juː ɑː stɔːnʧ bɪˈliːvəz ɪn ðə ˈfriːdəm əv ði ˌɪndɪˈvɪdjʊəl ænd ðə ruːl əv ə feər ænd ʤʌst lɔː/",
+          "analysis": {
+            "purpose": "Define core values shared by both nations",
+            "key_terms": ["freedom", "rule of law"],
+            "theme": "Common principles"
+          }
+        },
+        {
+          "text": "These principles are shared with our European partners and with the wider Atlantic community. They are the bedrock of the Western world.",
+          "ipa": "/ðiːz ˈprɪnsəpl̩z ɑː ʃeəd wɪð aʊə ˌjʊərəˈpiːən ˈpɑːtnəz ænd wɪð ðə ˈwaɪdər ətˈlæntɪk kəˈmjuːnɪti. ðeɪ ɑː ðə ˈbɛdrɒk əv ðə ˈwɛstən wɜːld/",
+          "analysis": {
+            "purpose": "Emphasize global importance of shared values",
+            "geopolitical_scope": ["Europe", "Atlantic community"],
+            "theme": "Western unity"
+          }
+        },
+        {
+          "text": "Some people believe that power grows from the barrel of a gun. So it can, but history shows that it never grows well nor for very long.",
+          "ipa": "/sʌm ˈpiːpl bɪˈliːv ðæt ˈpaʊə ɡrəʊz frɒm ðə ˈbærəl əv ə ɡʌn. səʊ ɪt kæn, bʌt ˈhɪstəri ʃəʊz ðæt ɪt ˈnɛvə ɡrəʊz wɛl nɔː fɔː ˈvɛri lɒŋ/",
+          "analysis": {
+            "purpose": "Contrast different sources of power",
+            "rhetorical_strategy": "Rejection of authoritarianism",
+            "metaphors": ["barrel of a gun"],
+            "theme": "Legitimacy of power"
+          }
+        },
+        {
+          "text": "Force in the end is sterile. We have gone a better way. Our society is rest on mutual agreement on contract and on consensus.",
+          "ipa": "/fɔːs ɪn ði ɛnd ɪz ˈstɛraɪl. wiː hæv ɡɒn ə ˈbɛtə weɪ. aʊə səˈsaɪəti ɪz rɛst ɒn ˈmjuːtʃuəl əˈɡriːmənt ɒn ˈkɒntrækt ænd ɒn kənˈsɛnsəs/",
+          "analysis": {
+            "purpose": "Promote the value of cooperation",
+            "theme": "Consensus over coercion"
+          }
+        },
+        {
+          "text": "A significant part of your social contract is written down in your constitution. Our rests on custom and will.",
+          "ipa": "/ə sɪɡˈnɪfɪkənt pɑːt əv jɔː ˈsəʊʃl̩ ˈkɒntrækt ɪz ˈrɪtn̩ daʊn ɪn jɔː ˌkɒnstɪˈtjuːʃən. aʊə rɛsts ɒn ˈkʌstəm ænd wɪl/",
+          "analysis": {
+            "purpose": "Compare constitutional frameworks",
+            "key_terms": ["social contract", "written constitution"],
+            "theme": "Democratic structures"
+          }
+        },
+        {
+          "text": "The spirit behind both, however, is precisely the same. It is the spirit of democracy.",
+          "ipa": "/ðə ˈspɪrɪt bɪˈhaɪnd bəʊθ, haʊˈɛvə, ɪz prɪˈsaɪsli ðə seɪm. ɪt ɪz ðə ˈspɪrɪt əv dɪˈmɒkrəsi/",
+          "analysis": {
+            "purpose": "Reaffirm shared democratic spirit",
+            "theme": "Unity in democracy"
+          }
+        },
+        {
+          "text": "These ideals are clear enough, but they must never be taken for granted. They have to be protected and nurtured through every change and fluctuation.",
+          "ipa": "/ðiːz aɪˈdɪəlz ɑː klɪər ɪˈnʌf, bʌt ðeɪ mʌst ˈnɛvə biː ˈteɪkən fɔː ˈɡrɑːntɪd. ðeɪ hæv tuː biː prəˈtɛktɪd ænd ˈnɜːʧəd θruː ˈɛvri ʧeɪnʤ ænd ˌflʌktʃuˈeɪʃən/",
+          "analysis": {
+            "purpose": "Warn against complacency",
+            "rhetorical_pattern": "Imperative verbs",
+            "theme": "Vigilance in democracy"
+          }
+        },
+        {
+          "text": "I want to take this opportunity to express the gratitude of the British people, to the people of the United States of America, for their steadfast loyalty to our common enterprise throughout this turbulent century.",
+          "ipa": "/aɪ wɒnt tuː teɪk ðɪs ˌɒpəˈtjuːnɪti tuː ɪksˈprɛs ðə ˈɡrætɪtjuːd əv ðə ˈbrɪtɪʃ ˈpiːpl, tuː ðə ˈpiːpl əv ðə juːˈnaɪtɪd steɪts əv əˈmɛrɪkə, fɔː ðeə ˈstɛdfɑːst ˈlɔɪəlti tuː aʊə ˈkɒmən ˈɛntəpraɪz θruːˈaʊt ðɪs ˈtɜːbjʊlənt ˈsɛnʧʊri/",
+          "analysis": {
+            "purpose": "Acknowledge historical partnership",
+            "temporal_scope": "20th century",
+            "key_terms": ["common enterprise"],
+            "tone": "Comradely, appreciative"
+          }
+        }
+      ],
+      "summary_analysis": {
+        "primary_themes": [
+          "Transatlantic solidarity",
+          "Democratic resilience",
+          "Responsible global leadership"
+        ],
+        "rhetorical_strategies": [
+          "Historical analogies",
+          "Value-based arguments",
+          "Inclusive language"
+        ],
+        "contemporary_relevance": {
+          "1991_context": "Gulf War victory, Soviet collapse",
+          "modern_parallels": [
+            "NATO adaptation",
+            "Democratic backsliding concerns",
+            "Rules-based international order"
+          ]
+        }
+      }
+    }
+  }

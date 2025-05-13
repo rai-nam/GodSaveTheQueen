@@ -15,315 +15,360 @@
         "text": "Last Christmas, I spoke to you from England.",
         "analysis": {
           "purpose": "Set the context of the message",
-          "tone": "Reflective"
+          "tone": "Reflective",
+          "ipa_transcription": "/lɑːst ˈkrɪsməs, aɪ spəʊk tə juː frɒm ˈɪŋɡlənd./"
         }
       },
       {
         "text": "This year, I am doing so from New Zealand.",
         "analysis": {
           "purpose": "Introduce the location of the address",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/ðɪs jɪər, aɪ æm ˈduːɪŋ səʊ frɒm njuː ˈziːlənd./"
         }
       },
       {
         "text": "Auckland, which I reached only two days ago, is I suppose as far as any city in the world from London.",
         "analysis": {
           "purpose": "Highlight geographical distance",
-          "tone": "Informative"
+          "tone": "Informative",
+          "ipa_transcription": "/ˈɔːklənd, wɪtʃ aɪ riːtʃt ˈəʊnli tuː deɪz əˈɡəʊ, ɪz aɪ səˈpəʊz æz fɑːr æz ˈɛni ˈsɪti ɪn ðə wɜːld frɒm ˈlʌndən./"
         }
       },
       {
         "text": "And I have travelled some thousands of miles through many changing scenes and climates on my voyage here.",
         "analysis": {
           "purpose": "Emphasize the journey taken",
-          "tone": "Adventurous"
+          "tone": "Adventurous",
+          "ipa_transcription": "/ænd aɪ hæv ˈtrævəld sʌm ˈθaʊzəndz əv maɪlz θruː ˈmɛni ˈtʃeɪndʒɪŋ siːnz ænd ˈklaɪməts ɒn maɪ ˈvɔɪɪdʒ hɪə./"
         }
       },
       {
         "text": "Despite all that, however, I find myself today completely and most happily at home.",
         "analysis": {
           "purpose": "Express comfort in the new location",
-          "tone": "Warm"
+          "tone": "Warm",
+          "ipa_transcription": "/dɪˈspaɪt ɔːl ðæt, haʊˈevə, aɪ faɪnd maɪˈsɛlf təˈdeɪ kəmˈpliːtli ænd məʊst ˈhæpɪli æt həʊm./"
         }
       },
       {
         "text": "Of course, we all want our children at Christmas time.",
         "analysis": {
           "purpose": "Connect to family themes",
-          "tone": "Nostalgic"
+          "tone": "Nostalgic",
+          "ipa_transcription": "/əv kɔːs, wiː ɔːl wɒnt ˈaʊə ˈtʃɪldrən æt ˈkrɪsməs taɪm./"
         }
       },
       {
         "text": "For that is the season above all others, when each family gathers at its own heart.",
         "analysis": {
           "purpose": "Emphasize the importance of family gatherings",
-          "tone": "Sentimental"
+          "tone": "Sentimental",
+          "ipa_transcription": "/fɔː ðæt ɪz ðə ˈsiːzən əˈbʌv ɔːl ˈʌðəz, wɛn iːtʃ ˈfæmɪli ˈɡæðəz æt ɪts əʊn hɑːt./"
         }
       },
       {
         "text": "I hope that perhaps mine are listening to me now.",
         "analysis": {
           "purpose": "Personalize the message",
-          "tone": "Hopeful"
+          "tone": "Hopeful",
+          "ipa_transcription": "/aɪ həʊp ðæt pəˈhæps maɪn ɑː ˈlɪsənɪŋ tə miː naʊ./"
         }
       },
       {
         "text": "And I am sure that when the time comes, they too will be great travelers.",
         "analysis": {
           "purpose": "Express hope for the future",
-          "tone": "Optimistic"
+          "tone": "Optimistic",
+          "ipa_transcription": "/ænd aɪ æm ʃʊə ðæt wɛn ðə taɪm kʌmz, ðeɪ tuː wɪl biː ɡreɪt ˈtrævələz./"
         }
       },
       {
         "text": "My husband and I left London a month ago.",
         "analysis": {
           "purpose": "Provide context for travels",
-          "tone": "Factual"
+          "tone": "Factual",
+          "ipa_transcription": "/maɪ ˈhʌzbənd ænd aɪ lɛft ˈlʌndən ə mʌnθ əˈɡəʊ./"
         }
       },
       {
         "text": "But we have already paid short visits to Bermuda, Jamaica, Fiji and Tonga and have passed through Panama.",
         "analysis": {
           "purpose": "Highlight the journey taken",
-          "tone": "Adventurous"
+          "tone": "Adventurous",
+          "ipa_transcription": "/bʌt wiː hæv ɔːlˈrɛdi peɪd ʃɔːt ˈvɪzɪts tə bəˈmjuːdə, dʒəˈmeɪkə, ˈfiːdʒiː ænd ˈtɒŋɡə ænd hæv pɑːst θruː ˈpænəmɑː./"
         }
       },
       {
         "text": "I should like to thank all our hosts, very warmly, for the kindness of their welcome and the great pleasure of our stay.",
         "analysis": {
           "purpose": "Express gratitude",
-          "tone": "Grateful"
+          "tone": "Grateful",
+          "ipa_transcription": "/aɪ ʃʊd laɪk tə θæŋk ɔːl ˈaʊə həʊsts, ˈvɛri ˈwɔːmli, fɔː ðə ˈkaɪndnɪs əv ðeə ˈwɛlkəm ænd ðə ɡreɪt ˈplɛʒər əv ˈaʊə steɪ./"
         }
       },
       {
         "text": "In a short time, we shall be visiting Australia and later Ceylon.",
         "analysis": {
           "purpose": "Mention future travels",
-          "tone": "Anticipatory"
+          "tone": "Anticipatory",
+          "ipa_transcription": "/ɪn ə ʃɔːt taɪm, wiː ʃæl biː ˈvɪzɪtɪŋ ɒˈstreɪliə ænd ˈleɪtə seɪˈlɒn./"
         }
       },
       {
         "text": "And before we end this great journey, we shall catch a glimpse of other places in Asia, Africa and in the Mediterranean.",
         "analysis": {
           "purpose": "Highlight the global scope of the journey",
-          "tone": "Excited"
+          "tone": "Excited",
+          "ipa_transcription": "/ænd bɪˈfɔː wiː ɛnd ðɪs ɡreɪt ˈdʒɜːni, wiː ʃæl kætʃ ə ɡlɪmps əv ˈʌðə ˈpleɪsɪz ɪn ˈeɪʒə, ˈæfrɪkə ænd ɪn ðə ˌmɛdɪtəˈreɪniən./"
         }
       },
       {
         "text": "So this will be a voyage right around the world.",
         "analysis": {
           "purpose": "Emphasize the significance of the journey",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/səʊ ðɪs wɪl biː ə ˈvɔɪɪdʒ raɪt əˈraʊnd ðə wɜːld./"
         }
       },
       {
         "text": "The first that a queen of England has been privileged to make as queen.",
         "analysis": {
           "purpose": "Highlight historical significance",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/ðə fɜːst ðæt ə kwiːn əv ˈɪŋɡlənd hæz biːn ˈprɪvəlɪdʒd tə meɪk æz kwiːn./"
         }
       },
       {
         "text": "But what is really important to me is that I set out on this journey in order to see as much as possible of the people and countries of the Commonwealth and Empire.",
         "analysis": {
           "purpose": "Express the purpose of the journey",
-          "tone": "Personal"
+          "tone": "Personal",
+          "ipa_transcription": "/bʌt wɒt ɪz ˈrɪəli ɪmˈpɔːtənt tə miː ɪz ðæt aɪ sɛt aʊt ɒn ðɪs ˈdʒɜːni ɪn ˈɔːdə tə siː æz mʌtʃ æz ˈpɒsəbl əv ðə ˈpiːpl ænd ˈkʌntriz əv ðə ˈkɒmənwelθ ænd ˈɛmpaɪə./"
         }
       },
       {
         "text": "To learn at first hand, something of that triumphs and difficulties and something of their hopes and fears.",
         "analysis": {
           "purpose": "Highlight the importance of understanding",
-          "tone": "Empathetic"
+          "tone": "Empathetic",
+          "ipa_transcription": "/tə lɜːn æt fɜːst hænd, ˈsʌmθɪŋ əv ðæt ˈtraɪʌmfs ænd ˈdɪfɪkəltiz ænd ˈsʌmθɪŋ əv ðeə həʊps ænd fɪəz./"
         }
       },
       {
         "text": "At the same time, I want to show that the crown is not merely an abstract symbol of unity, but a personal and living bond between you and me.",
         "analysis": {
           "purpose": "Reinforce the personal connection to the monarchy",
-          "tone": "Reassuring"
+          "tone": "Reassuring",
+          "ipa_transcription": "/æt ðə seɪm taɪm, aɪ wɒnt tə ʃəʊ ðæt ðə kraʊn ɪz nɒt ˈmɪəli ən ˈæbstrækt ˈsɪmbəl əv ˈjuːnɪti, bʌt ə ˈpɜːsənl ænd ˈlɪvɪŋ bɒnd bɪˈtwiːn juː ænd miː./"
         }
       },
       {
         "text": "Some people have expressed the hope that my reign may mark a new Elizabethan age.",
         "analysis": {
           "purpose": "Acknowledge public aspirations",
-          "tone": "Hopeful"
+          "tone": "Hopeful",
+          "ipa_transcription": "/sʌm ˈpiːpl hæv ɪkˈsprɛst ðə həʊp ðæt maɪ reɪn meɪ mɑːk ə njuː ɪˌlɪzəˈbiːθən eɪdʒ./"
         }
       },
       {
         "text": "Frankly, I do not myself feel a toll like my great Tudor forbear, who was blessed with neither husband nor children, who ruled as a despot and was never able to leave her native shores.",
         "analysis": {
           "purpose": "Contrast her reign with that of Queen Elizabeth I",
-          "tone": "Candid"
+          "tone": "Candid",
+          "ipa_transcription": "/ˈfræŋkli, aɪ duː nɒt maɪˈsɛlf fiːl ə təʊl laɪk maɪ ɡreɪt ˈtjuːdə ˈfɔːbeə, huː wɒz blɛst wɪð ˈnaɪðə ˈhʌzbənd nɔː ˈtʃɪldrən, huː ruːld æz ə ˈdɛspɒt ænd wɒz ˈnɛvər ˈeɪbl tə liːv hə ˈneɪtɪv ʃɔːz./"
         }
       },
       {
         "text": "But there is at least one very significant resemblance between her age and mine.",
         "analysis": {
           "purpose": "Draw parallels between eras",
-          "tone": "Reflective"
+          "tone": "Reflective",
+          "ipa_transcription": "/bʌt ðeər ɪz æt liːst wʌn ˈvɛri sɪɡˈnɪfɪkənt rɪˈzɛmbləns bɪˈtwiːn hər eɪdʒ ænd maɪn./"
         }
       },
       {
         "text": "For her kingdom, small though it may have been and poor by comparison with her European neighbors, was yet great in spirit and well endowed with men who were ready to encompass the earth.",
         "analysis": {
           "purpose": "Celebrate historical resilience",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/fɔː hə ˈkɪŋdəm, smɔːl ðəʊ ɪt meɪ hæv biːn ænd pʊə baɪ kəmˈpærɪsən wɪð hər ˌjʊərəˈpiːən ˈneɪbəz, wɒz jɛt ɡreɪt ɪn ˈspɪrɪt ænd wɛl ɪnˈdaʊd wɪð mɛn huː wə ˈrɛdi tʊ ɪnˈkʌmpəs ðə ɜːθ./"
         }
       },
       {
         "text": "Now, this great Commonwealth of which I am so proud to be the head and of which that ancient kingdom forms a part, is rich in material resources and is richer still in the enterprise and courage of its people.",
         "analysis": {
           "purpose": "Emphasize the strength of the Commonwealth",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/naʊ, ðɪs ɡreɪt ˈkɒmənwelθ əv wɪtʃ aɪ æm səʊ praʊd tə biː ðə hɛd ænd əv wɪtʃ ðæt ˈeɪnʃənt ˈkɪŋdəm fɔːmz ə pɑːt, ɪz rɪtʃ ɪn məˈtɪəriəl rɪˈsɔːsɪz ænd ɪz ˈrɪtʃə stɪl ɪn ði ˈɛntəpraɪz ænd ˈkʌrɪdʒ əv ɪts ˈpiːpl./"
         }
       },
       {
         "text": "The adventurous heroes of Tudor and Stuart times realized what would grow from the settlements which they and later pioneers founded.",
         "analysis": {
           "purpose": "Acknowledge historical contributions",
-          "tone": "Respectful"
+          "tone": "Respectful",
+          "ipa_transcription": "/ði ədˈvɛntʃərəs ˈhɪərəʊz əv ˈtjuːdə ænd ˈstjuːət taɪmz ˈrɪəlaɪzd wɒt wʊd ɡrəʊ frɒm ðə ˈsɛtlmənts wɪtʃ ðeɪ ænd ˈleɪtə ˌpaɪəˈnɪəz ˈfaʊndɪd./"
         }
       },
       {
         "text": "From the empire of which they built the frame, there has arisen a worldwide fellowship of nations of a type never seen before.",
         "analysis": {
           "purpose": "Highlight the uniqueness of the Commonwealth",
-          "tone": "Celebratory"
+          "tone": "Celebratory",
+          "ipa_transcription": "/frɒm ði ˈɛmpaɪər əv wɪtʃ ðeɪ bɪlt ðə freɪm, ðeə hæz əˈrɪzn ə ˈwɜːldwaɪd ˈfɛləʊʃɪp əv ˈneɪʃənz əv ə taɪp ˈnɛvə siːn bɪˈfɔː./"
         }
       },
       {
         "text": "In that fellowship, the United Kingdom is an equal partner with many other proud and independent nations.",
         "analysis": {
           "purpose": "Promote equality within the Commonwealth",
-          "tone": "Inclusive"
+          "tone": "Inclusive",
+          "ipa_transcription": "/ɪn ðæt ˈfɛləʊʃɪp, ðə juːˈnaɪtɪd ˈkɪŋdəm ɪz ən ˈiːkwəl ˈpɑːtnə wɪð ˈmɛni ˈʌðə praʊd ænd ˌɪndɪˈpɛndənt ˈneɪʃənz./"
         }
       },
       {
         "text": "And she is leading yet others still backward territories forward to the same goal.",
         "analysis": {
           "purpose": "Acknowledge leadership role of the UK",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/ænd ʃiː ɪz ˈliːdɪŋ jɛt ˈʌðəz stɪl ˈbækwəd ˈtɛrɪtəriz ˈfɔːwəd tə ðə seɪm ɡəʊl./"
         }
       },
       {
         "text": "All these nations have helped to create our Commonwealth and all are equally concerned to maintain, develop and defend it against any challenge that may come.",
         "analysis": {
           "purpose": "Emphasize collective responsibility",
-          "tone": "Reassuring"
+          "tone": "Reassuring",
+          "ipa_transcription": "/ɔːl ðiːz ˈneɪʃənz hæv hɛlpt tə kriˈeɪt ˈaʊə ˈkɒmənwelθ ænd ɔːl ɑːr ˈiːkwəli kənˈsɜːnd tə meɪnˈteɪn, dɪˈvɛləp ænd dɪˈfɛnd ɪt əˈɡɛnst ˈɛni ˈtʃælɪndʒ ðæt meɪ kʌm./"
         }
       },
       {
         "text": "As I travel across the world today, I am ever more deeply impressed with the achievement and the opportunity which the modern Commonwealth presents.",
         "analysis": {
           "purpose": "Celebrate the achievements of the Commonwealth",
-          "tone": "Inspirational"
+          "tone": "Inspirational",
+          "ipa_transcription": "/æz aɪ ˈtrævəl əˈkrɒs ðə wɜːld təˈdeɪ, aɪ æm ˈɛvə mɔː ˈdiːpli ɪmˈprɛst wɪð ði əˈtʃiːvmənt ænd ði ˌɒpəˈtjuːnɪti wɪtʃ ðə ˈmɒdən ˈkɒmənwelθ prɪˈzɛnts./"
         }
       },
       {
         "text": "Like New Zealand, from whose North Island I am speaking, every one of its nations can be just as proud of what it has built for itself on its own soil.",
         "analysis": {
           "purpose": "Encourage pride in national achievements",
-          "tone": "Encouraging"
+          "tone": "Encouraging",
+          "ipa_transcription": "/laɪk njuː ˈziːlənd, frɒm huːz nɔːθ ˈaɪlənd aɪ æm ˈspiːkɪŋ, ˈɛvri wʌn əv ɪts ˈneɪʃənz kæn biː dʒʌst æz praʊd əv wɒt ɪt hæz bɪlt fɔː ɪtˈsɛlf ɒn ɪts əʊn sɔɪl./"
         }
       },
       {
         "text": "But the greatest achievement I suggest is the Commonwealth itself and that is much to all of them.",
         "analysis": {
           "purpose": "Highlight the importance of the Commonwealth",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/bʌt ðə ˈɡreɪtɪst əˈtʃiːvmənt aɪ səˈdʒɛst ɪz ðə ˈkɒmənwelθ ɪtˈsɛlf ænd ðæt ɪz mʌtʃ tə ɔːl əv ðɛm./"
         }
       },
       {
         "text": "Thus formed, the Commonwealth bears no resemblance to the empires of the past.",
         "analysis": {
           "purpose": "Differentiate the Commonwealth from historical empires",
-          "tone": "Definitive"
+          "tone": "Definitive",
+          "ipa_transcription": "/ðʌs fɔːmd, ðə ˈkɒmənwelθ beəz nəʊ rɪˈzɛmbləns tə ði ˈɛmpaɪəz əv ðə pɑːst./"
         }
       },
       {
         "text": "It is an entirely new conception built on the highest qualities of the Spirit of Man, friendship, loyalty and the desire for freedom and peace.",
         "analysis": {
           "purpose": "Promote the values of the Commonwealth",
-          "tone": "Uplifting"
+          "tone": "Uplifting",
+          "ipa_transcription": "/ɪt ɪz ən ɪnˈtaɪəli njuː kənˈsɛpʃən bɪlt ɒn ðə ˈhaɪɪst ˈkwɒlɪtiz əv ðə ˈspɪrɪt əv mæn, ˈfrɛndʃɪp, ˈlɔɪəlti ænd ðə dɪˈzaɪə fɔː ˈfriːdəm ænd piːs./"
         }
       },
       {
         "text": "To that new conception of an equal partnership of nations and races, I shall give myself heart and soul every day of my life.",
         "analysis": {
           "purpose": "Express commitment to the Commonwealth",
-          "tone": "Devoted"
+          "tone": "Devoted",
+          "ipa_transcription": "/tə ðæt njuː kənˈsɛpʃən əv ən ˈiːkwəl ˈpɑːtnəʃɪp əv ˈneɪʃənz ænd ˈreɪsɪz, aɪ ʃæl ɡɪv maɪˈsɛlf hɑːt ænd səʊl ˈɛvri deɪ əv maɪ laɪf./"
         }
       },
       {
         "text": "I wish to speak of it from New Zealand this Christmas day because we are celebrating the birth of the Prince of Peace, who preached the Brotherhood of Man.",
         "analysis": {
           "purpose": "Connect the Christmas message to the theme of peace",
-          "tone": "Spiritual"
+          "tone": "Spiritual",
+          "ipa_transcription": "/aɪ wɪʃ tə spiːk əv ɪt frɒm njuː ˈziːlənd ðɪs ˈkrɪsməs deɪ bɪˈkɒz wiː ɑː ˈsɛlɪbreɪtɪŋ ðə bɜːθ əv ðə prɪns əv piːs, huː priːtʃt ðə ˈbrʌðəhʊd əv mæn./"
         }
       },
       {
         "text": "May that Brotherhood be furthered by all our thoughts and deeds from this year.",
         "analysis": {
           "purpose": "Encourage actions towards unity",
-          "tone": "Hopeful"
+          "tone": "Hopeful",
+          "ipa_transcription": "/meɪ ðæt ˈbrʌðəhʊd biː ˈfɜːðəd baɪ ɔːl ˈaʊə θɔːts ænd diːdz frɒm ðɪs jɪə./"
         }
       },
       {
         "text": "In pursuit of that supreme ideal, the Commonwealth is moving steadily towards greater harmony between its many creeds, colors and races, despite the imperfections by which, like every human institution, it is beset.",
         "analysis": {
           "purpose": "Highlight progress towards unity",
-          "tone": "Optimistic"
+          "tone": "Optimistic",
+          "ipa_transcription": "/ɪn pəˈsjuːt əv ðæt sjuːˈpriːm aɪˈdɪəl, ðə ˈkɒmənwelθ ɪz ˈmuːvɪŋ ˈstɛdɪli təˈwɔːdz ˈɡreɪtə ˈhɑːməni bɪˈtwiːn ɪts ˈmɛni kriːdz, ˈkʌləz ænd ˈreɪsɪz, dɪˈspaɪt ði ˌɪmpəˈfɛkʃənz baɪ wɪtʃ, laɪk ˈɛvri ˈhjuːmən ˌɪnstɪˈtjuːʃən, ɪt ɪz bɪˈsɛt./"
         }
       },
       {
         "text": "Already indeed, in the last half century, it has proved itself the most effective and progressive association of peoples which history has yet seen.",
         "analysis": {
           "purpose": "Celebrate the Commonwealth’s effectiveness",
-          "tone": "Proud"
+          "tone": "Proud",
+          "ipa_transcription": "/ɔːlˈrɛdi ɪnˈdiːd, ɪn ðə lɑːst hɑːf ˈsɛntʃəri, ɪt hæz pruːvd ɪtˈsɛlf ðə məʊst ɪˈfɛktɪv ænd prəˈɡrɛsɪv əˌsəʊsiˈeɪʃən əv ˈpiːplz wɪtʃ ˈhɪstəri hæz jɛt siːn./"
         }
       },
       {
         "text": "And its ideal of Brotherhood embraces the whole world.",
         "analysis": {
           "purpose": "Emphasize global unity",
-          "tone": "Inclusive"
+          "tone": "Inclusive",
+          "ipa_transcription": "/ænd ɪts aɪˈdɪəl əv ˈbrʌðəhʊd ɪmˈbreɪsɪz ðə həʊl wɜːld./"
         }
       },
       {
         "text": "To all my peoples throughout the Commonwealth, I commend that Christmas hope and prayer.",
         "analysis": {
           "purpose": "Extend Christmas wishes to all",
-          "tone": "Warm"
+          "tone": "Warm",
+          "ipa_transcription": "/tə ɔːl maɪ ˈpiːplz θruːˈaʊt ðə ˈkɒmənwelθ, aɪ kəˈmɛnd ðæt ˈkrɪsməs həʊp ænd preə./"
         }
       },
       {
         "text": "And now I want to say something to my people in New Zealand.",
         "analysis": {
           "purpose": "Address New Zealand specifically",
-          "tone": "Direct"
+          "tone": "Direct",
+          "ipa_transcription": "/ænd naʊ aɪ wɒnt tə seɪ ˈsʌmθɪŋ tə maɪ ˈpiːpl ɪn njuː ˈziːlənd./"
         }
       },
       {
         "text": "Last night, a most grievous railway accident took place at Tangiwai, which will have brought tragedy into many homes and sorrow into all upon this Christmas day.",
         "analysis": {
           "purpose": "Acknowledge recent tragedy",
-          "tone": "Solemn"
+          "tone": "Solemn",
+          "ipa_transcription": "/lɑːst naɪt, ə məʊst ˈɡriːvəs ˈreɪlweɪ ˈæksɪdənt tʊk pleɪs æt tæŋiːwaɪ, wɪtʃ wɪl hæv brɔːt ˈtrædʒədi ˈɪntuː ˈmɛni həʊmz ænd ˈsɒrəʊ ˈɪntuː ɔːl əˈpɒn ðɪs ˈkrɪsməs deɪ./"
         }
       },
       {
         "text": "I know that there is no one in New Zealand and indeed throughout the Commonwealth who will not join with my husband and me in sending to those who mourn a message of sympathy in their loss.",
         "analysis": {
           "purpose": "Express condolences",
-          "tone": "Compassionate"
+          "tone": "Compassionate",
+          "ipa_transcription": "/aɪ nəʊ ðæt ðeər ɪz nəʊ wʌn ɪn njuː ˈziːlənd ænd ɪnˈdiːd θruːˈaʊt ðə ˈkɒmənwelθ huː wɪl nɒt dʒɔɪn wɪð maɪ ˈhʌzbənd ænd miː ɪn ˈsɛndɪŋ tə ðəʊz huː mɔːn ə ˈmɛsɪdʒ əv ˈsɪmpəθi ɪn ðeə lɒs./"
         }
       },
       {
         "text": "I pray that they, and all who have been injured, may be comforted and strengthened.",
         "analysis": {
           "purpose": "Offer prayers for healing",
-          "tone": "Hopeful"
+          "tone": "Hopeful",
+          "ipa_transcription": "/aɪ preɪ ðæt ðeɪ, ænd ɔːl huː hæv biːn ˈɪndʒəd, meɪ biː ˈkʌmfətɪd ænd ˈstrɛŋθənd./"
         }
       }
     ],

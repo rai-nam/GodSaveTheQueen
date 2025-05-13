@@ -17,7 +17,8 @@
           "purpose": "Express joy and gratitude",
           "rhetorical_devices": ["Direct address", "Personal reflection"],
           "key_terms": ["delighted", "memorable events"],
-          "tone": "Grateful, warm"
+          "tone": "Grateful, warm",
+          "ipa_transcription": "/maɪ lɔːd, maɪ lɔːd, kʊd aɪ seɪ fɜːst haʊ dɪˈlaɪtɪd aɪ æm wɪð ðə ˈleɪdi ˈmɛəriz hɪə təˈdeɪ? ðɪs ɡreɪt hɔːl hæz prəˈvaɪdɪd miː wɪð sʌm əv ðə məʊst ˈmɛmərəbl ɪˈvɛnts ɪn maɪ laɪf./"
         }
       },
       {
@@ -25,7 +26,8 @@
         "analysis": {
           "purpose": "Acknowledge London’s hospitality",
           "key_terms": ["hospitality", "appreciated"],
-          "theme": "Cultural pride"
+          "theme": "Cultural pride",
+          "ipa_transcription": "/ðə ˌhɒspɪˈtælɪti əv ðə ˈsɪti əv ˈlʌndən ɪz ˈfeɪməs əˈraʊnd ðə wɜːld, bʌt ˈnəʊweər ɪz ɪt mɔːr əˈpriːʃɪeɪtɪd ðæn əˈmʌŋ ðə ˈmɛmbəz əv maɪ ˈfæmɪli./"
         }
       },
       {
@@ -34,7 +36,8 @@
           "purpose": "Express gratitude for the event",
           "rhetorical_strategy": "Formal acknowledgment",
           "key_terms": ["grateful", "cherish"],
-          "tone": "Sincere, appreciative"
+          "tone": "Sincere, appreciative",
+          "ipa_transcription": "/aɪ æm ˈdiːpli ˈɡreɪtfʊl ðæt juː, maɪ lɔːd, ænd ðə ˌkɔːpəˈreɪʃən hæv siːn fɪt tə mɑːk ðə ˈfɔːtiəθ ˌænɪˈvɜːsəri əv maɪ əkˈsɛʃən wɪð ðɪs ˈsplɛndɪd lʌntʃ, ænd baɪ ˈɡɪvɪŋ miː ə ˈpɪktʃə wɪtʃ aɪ wɪl ˈɡreɪtli ˈtʃɛrɪʃ./"
         }
       },
       {
@@ -42,7 +45,8 @@
         "analysis": {
           "purpose": "Acknowledge connections and support",
           "tone": "Warm, inclusive",
-          "key_terms": ["representatives", "connections"]
+          "key_terms": ["representatives", "connections"],
+          "ipa_transcription": "/θæŋk juː ˈɔːlsəʊ fɔːr ɪnˈvaɪtɪŋ ˌrɛprɪˈzɛntətɪvz əv səʊ ˈmɛni ˌɔːɡənaɪˈzeɪʃənz wɪð wɪtʃ aɪ ænd maɪ ˈfæmɪli hæv ˈspɛʃəl kəˈnɛkʃənz ɪn sʌm ˈkeɪsɪz ˈstrɛtʃɪŋ bæk ˈəʊvə ˈsɛvrəl ˌdʒɛnəˈreɪʃənz./"
         }
       },
       {
@@ -50,7 +54,8 @@
         "analysis": {
           "purpose": "Use cultural reference to emphasize unity",
           "rhetorical_device": "Colloquialism",
-          "theme": "Cultural identity"
+          "theme": "Cultural identity",
+          "ipa_transcription": "/tə juːz ən ɪkˈsprɛʃən mɔː ˈkɒmən nɔːθ əv ðə ˈbɔːdə, ðɪs ɪz ə wɛl ˈɡæðərɪŋ əv ðə klænz./"
         }
       },
       {
@@ -59,14 +64,16 @@
           "purpose": "Reflect on a challenging year",
           "rhetorical_strategy": "Humor and honesty",
           "key_terms": ["anus horribleis"],
-          "tone": "Candid, reflective"
+          "tone": "Candid, reflective",
+          "ipa_transcription": "/ˈnaɪntiːn ˈnaɪnti tuː ɪz nɒt ə jɪər ɒn wɪtʃ aɪ ʃæl lʊk bæk wɪð ˌʌndɪˈluːtɪd ˈplɛʒə. ɪn ðə wɜːdz əv wʌn əv maɪ mɔː ˌsɪmpəˈθɛtɪk ˌkɒrɪˈspɒndəns, ɪt hæz tɜːnd aʊt tə biː ən ˈeɪnəs hɒˈrɪbɪliːs./"
         }
       },
       {
         "text": "I suspect that I am not alone in thinking it so. Indeed I suspect that there are very few people or institutions unaffected by these last months of worldwide turmoil and uncertainty.",
         "analysis": {
           "purpose": "Acknowledge shared struggles",
-          "tone": "Empathetic, inclusive"
+          "tone": "Empathetic, inclusive",
+          "ipa_transcription": "/aɪ səˈspɛkt ðæt aɪ æm nɒt əˈləʊn ɪn ˈθɪŋkɪŋ ɪt səʊ. ɪnˈdiːd aɪ səˈspɛkt ðæt ðeə ɑː ˈvɛri fjuː ˈpiːpl ɔːr ˌɪnstɪˈtjuːʃənz ˌʌnəˈfɛktɪd baɪ ðiːz lɑːst mʌnθs əv ˈwɜːldwaɪd ˈtɜːmɔɪl ænd ʌnˈsɜːtənti./"
         }
       },
       {
@@ -74,14 +81,16 @@
         "analysis": {
           "purpose": "Express appreciation for support",
           "temporal_context": "Post-fire incident",
-          "tone": "Sincere, appreciative"
+          "tone": "Sincere, appreciative",
+          "ipa_transcription": "/ðɪs ˌdʒɛnəˈrɒsɪti ænd ˌhəʊlˈhɑːtɪd ˈkaɪndnɪs əv ðə ˌkɔːpəˈreɪʃən əv ðə ˈsɪti tə prɪns ˈfɪlɪp ænd miː wʊd biː ˈwɛlkəm æt ˈɛni taɪm, bʌt æt ðɪs pəˈtɪkjʊlə ˈməʊmənt ɪn ði ˈɑːftəmæθ əv ˈfraɪdeɪz ˈtrædʒɪk faɪər æt ˈwɪnzə, ɪt ɪz ɪˈspɛʃəli səʊ./"
         }
       },
       {
         "text": "And after this last weekend, we appreciate all the more what has been said before us today.",
         "analysis": {
           "purpose": "Acknowledge recent events",
-          "tone": "Reflective, grateful"
+          "tone": "Reflective, grateful",
+          "ipa_transcription": "/ænd ˈɑːftə ðɪs lɑːst ˈwiːkɛnd, wiː əˈpriːʃɪeɪt ɔːl ðə mɔː wɒt hæz biːn sɛd bɪˈfɔːr ʌs təˈdeɪ./"
         }
       },
       {
@@ -89,14 +98,16 @@
         "analysis": {
           "purpose": "Share wisdom from experience",
           "rhetorical_devices": ["Anecdote", "Contrast"],
-          "theme": "Experience vs naivety"
+          "theme": "Experience vs naivety",
+          "ipa_transcription": "/jɪəz əv ɪkˈspɪəriəns, haʊˈɛvə, hæv meɪd ʌs ə bɪt mɔː ˈkæni ðæn ðə ˈleɪdi lɛs wɛl-vɜːst ðæn ʌs ɪn ðə ˈsplɛndəz əv ˈsɪti ˌhɒspɪˈtælɪti, huː, wɛn ʃiː wɒz ˈɒfəd ə bəˈluːn ɡlɑːs fɔː hə ˈbrændi, ɑːskt fɔːr ˈəʊnli hɑːf ə ɡlɑːs, pliːz./"
         }
       },
       {
         "text": "It is possible to have too much of a good thing.",
         "analysis": {
           "purpose": "Introduce moderation",
-          "theme": "Balance in life"
+          "theme": "Balance in life",
+          "ipa_transcription": "/ɪt ɪz ˈpɒsəbl tə hæv tuː mʌtʃ əv ə ɡʊd θɪŋ./"
         }
       },
       {
@@ -104,21 +115,24 @@
         "analysis": {
           "purpose": "Use historical reference",
           "rhetorical_device": "Historical anecdote",
-          "theme": "Tradition and faith"
+          "theme": "Tradition and faith",
+          "ipa_transcription": "/ə wɛl-ˈmiːnɪŋ ˈbɪʃəp wɒz ˈɒbvɪəsli ˈduːɪŋ hɪz bɛst. wɛn hiː təʊld kwiːn vɪkˈtɔːriə, mæm, wiː ˈkænɒt preɪ tuː ˈɒfən nɔː tuː ˈfɜːvəntli fɔː ðə ˈrɔɪəl ˈfæmɪli./"
         }
       },
       {
         "text": "The Queen's reply was too fervently no, too often, yes.",
         "analysis": {
           "purpose": "Emphasize moderation",
-          "tone": "Humorous, reflective"
+          "tone": "Humorous, reflective",
+          "ipa_transcription": "/ðə kwiːnz rɪˈplaɪ wɒz tuː ˈfɜːvəntli nəʊ, tuː ˈɒfən, jɛs./"
         }
       },
       {
         "text": "I, like Queen Victoria, have always been a believer in their old maxim moderation in all things.",
         "analysis": {
           "purpose": "Reaffirm belief in moderation",
-          "theme": "Philosophical stance"
+          "theme": "Philosophical stance",
+          "ipa_transcription": "/aɪ, laɪk kwiːn vɪkˈtɔːriə, hæv ˈɔːlweɪz biːn ə bɪˈliːvər ɪn ðeər əʊld ˈmæksɪm ˌmɒdəˈreɪʃən ɪn ɔːl θɪŋz./"
         }
       },
       {
@@ -126,112 +140,128 @@
         "analysis": {
           "purpose": "Contemplate legacy and judgment",
           "rhetorical_strategy": "Speculation",
-          "theme": "Historical perspective"
+          "theme": "Historical perspective",
+          "ipa_transcription": "/aɪ ˈsʌmtaɪmz ˈwʌndə haʊ ˈfjuːtʃə ˌdʒɛnəˈreɪʃənz wɪl dʒʌdʒ ði ɪˈvɛnts əv ðɪs tjuːˈmʌltjʊəs jɪə./"
         }
       },
       {
         "text": "I dare say that history would take a slightly more moderate view than that of some contemporary commentators.",
         "analysis": {
           "purpose": "Critique contemporary judgment",
-          "tone": "Cautious, reflective"
+          "tone": "Cautious, reflective",
+          "ipa_transcription": "/aɪ deə seɪ ðæt ˈhɪstəri wʊd teɪk ə ˈslaɪtli mɔː ˈmɒdərɪt vjuː ðæn ðæt əv sʌm kənˈtɛmpərəri ˈkɒmənteɪtəz./"
         }
       },
       {
         "text": "Distance is well known to lend enchantment, even to the less attractive views, after all it has the inestimable advantage of hindsight.",
         "analysis": {
           "purpose": "Discuss the value of hindsight",
-          "theme": "Perspective over time"
+          "theme": "Perspective over time",
+          "ipa_transcription": "/ˈdɪstəns ɪz wɛl nəʊn tə lɛnd ɪnˈtʃɑːntmənt, ˈiːvən tə ðə lɛs əˈtræktɪv vjuːz, ˈɑːftər ɔːl ɪt hæz ði ɪnˈɛstɪməbl ədˈvɑːntɪdʒ əv ˈhaɪndsaɪt./"
         }
       },
       {
         "text": "But it can also lend an extra dimension to judgment, giving it a leavening of moderation and compassion, even of wisdom.",
         "analysis": {
           "purpose": "Highlight the importance of compassion",
-          "theme": "Wisdom in judgment"
+          "theme": "Wisdom in judgment",
+          "ipa_transcription": "/bʌt ɪt kæn ˈɔːlsəʊ lɛnd ən ˈɛkstrə daɪˈmɛnʃən tə ˈdʒʌdʒmənt, ˈɡɪvɪŋ ɪt ə ˈlɛvnɪŋ əv ˌmɒdəˈreɪʃən ænd kəmˈpæʃən, ˈiːvən əv ˈwɪzdəm./"
         }
       },
       {
         "text": "It is sometimes lacking in the reactions of those whose task it is in life to offer instant opinions on all things great and small.",
         "analysis": {
           "purpose": "Critique immediate reactions",
-          "theme": "Thoughtfulness vs rashness"
+          "theme": "Thoughtfulness vs rashness",
+          "ipa_transcription": "/ɪt ɪz ˈsʌmtaɪmz ˈlækɪŋ ɪn ðə riˈækʃənz əv ðəʊz huːz tɑːsk ɪt ɪz ɪn laɪf tə ˈɒfər ˈɪnstənt əˈpɪnjənz ɒn ɔːl θɪŋz ɡreɪt ænd smɔːl./"
         }
       },
       {
         "text": "No section of the community has all the virtues neither does any have all the vices.",
         "analysis": {
           "purpose": "Promote understanding and compassion",
-          "theme": "Human complexity"
+          "theme": "Human complexity",
+          "ipa_transcription": "/nəʊ ˈsɛkʃən əv ðə kəˈmjuːnɪti hæz ɔːl ðə ˈvɜːtʃuːz ˈnaɪðə dʌz ˈɛni hæv ɔːl ðə ˈvaɪsɪz./"
         }
       },
       {
         "text": "I am quite sure that most people try to do their best, to do their jobs as best they can, even if the result is not always entirely successful.",
         "analysis": {
           "purpose": "Encourage empathy for effort",
-          "tone": "Supportive, understanding"
+          "tone": "Supportive, understanding",
+          "ipa_transcription": "/aɪ æm kwaɪt ʃʊə ðæt məʊst ˈpiːpl traɪ tə duː ðeə bɛst, tə duː ðeə dʒɒbz æz bɛst ðeɪ kæn, ˈiːvən ɪf ðə rɪˈzʌlt ɪz nɒt ˈɔːlweɪz ɪnˈtaɪəli səkˈsɛsfʊl./"
         }
       },
       {
         "text": "He who has never failed to reach perfection has a right to be the harshest critic.",
         "analysis": {
           "purpose": "Highlight the fallibility of criticism",
-          "theme": "Criticism and humility"
+          "theme": "Criticism and humility",
+          "ipa_transcription": "/hiː huː hæz ˈnɛvə feɪld tə riːtʃ pəˈfɛkʃən hæz ə raɪt tə biː ðə ˈhɑːʃɪst ˈkrɪtɪk./"
         }
       },
       {
         "text": "There can be no doubt, of course, that criticism is good for people and institutions that are part of public life.",
         "analysis": {
           "purpose": "Acknowledge positive role of criticism",
-          "theme": "Constructive feedback"
+          "theme": "Constructive feedback",
+          "ipa_transcription": "/ðeə kæn biː nəʊ daʊt, əv kɔːs, ðæt ˈkrɪtɪsɪzəm ɪz ɡʊd fɔː ˈpiːpl ænd ˌɪnstɪˈtjuːʃənz ðæt ɑː pɑːt əv ˈpʌblɪk laɪf./"
         }
       },
       {
         "text": "New institution, city, monarchy, whatever should expect to be free from the scrutiny of those who give it their loyalty and support.",
         "analysis": {
           "purpose": "Discuss the need for accountability",
-          "theme": "Public trust"
+          "theme": "Public trust",
+          "ipa_transcription": "/njuː ˌɪnstɪˈtjuːʃən, ˈsɪti, ˈmɒnəki, wɒtˈɛvə ʃʊd ɪkˈspɛkt tə biː friː frɒm ðə ˈskruːtɪni əv ðəʊz huː ɡɪv ɪt ðeə ˈlɔɪəlti ænd səˈpɔːt./"
         }
       },
       {
         "text": "Because we are all part of the same fabric of our national society.",
         "analysis": {
           "purpose": "Emphasize unity and shared responsibility",
-          "theme": "National identity"
+          "theme": "National identity",
+          "ipa_transcription": "/bɪˈkɒz wiː ɑːr ɔːl pɑːt əv ðə seɪm ˈfæbrɪk əv ˈaʊə ˈnæʃənl səˈsaɪəti./"
         }
       },
       {
         "text": "And that scrutiny by one part of another can be just as effective if it is made with the touch of gentleness, good humour and understanding.",
         "analysis": {
           "purpose": "Promote constructive criticism",
-          "theme": "Compassionate engagement"
+          "theme": "Compassionate engagement",
+          "ipa_transcription": "/ænd ðæt ˈskruːtɪni baɪ wʌn pɑːt əv əˈnʌðə kæn biː dʒʌst æz ɪˈfɛktɪv ɪf ɪt ɪz meɪd wɪð ðə tʌtʃ əv ˈdʒɛntlnɪs, ɡʊd ˈhjuːmə ænd ˌʌndəˈstændɪŋ./"
         }
       },
       {
         "text": "This sort of questioning can also act and it should do so as an effective engine for change.",
         "analysis": {
           "purpose": "Encourage critical inquiry",
-          "theme": "Catalyst for progress"
+          "theme": "Catalyst for progress",
+          "ipa_transcription": "/ðɪs sɔːt əv ˈkwɛstʃənɪŋ kæn ˈɔːlsəʊ ækt ænd ɪt ʃʊd duː səʊ æz ən ɪˈfɛktɪv ˈɛndʒɪn fɔː tʃeɪndʒ./"
         }
       },
       {
         "text": "The city is a good example of the way the process of change can be incorporated into the stability and continuity of a great institution.",
         "analysis": {
           "purpose": "Highlight adaptive qualities of institutions",
-          "theme": "Stability through change"
+          "theme": "Stability through change",
+          "ipa_transcription": "/ðə ˈsɪti ɪz ə ɡʊd ɪɡˈzɑːmpəl əv ðə weɪ ðə ˈprəʊsɛs əv tʃeɪndʒ kæn biː ɪnˈkɔːpəreɪtɪd ˈɪntə ðə stəˈbɪlɪti ænd ˌkɒntɪˈnjuːɪti əv ə ɡreɪt ˌɪnstɪˈtjuːʃən./"
         }
       },
       {
         "text": "I particularly admire my Lord Mayor, the way in which the city has adapted so nimbly to what the prayer book calls the changes and chances of this mortal life.",
         "analysis": {
           "purpose": "Praise local leadership",
-          "tone": "Respectful, admiring"
+          "tone": "Respectful, admiring",
+          "ipa_transcription": "/aɪ pəˈtɪkjʊləli ədˈmaɪə maɪ lɔːd ˈmɛə, ðə weɪ ɪn wɪtʃ ðə ˈsɪti hæz əˈdæptɪd səʊ ˈnɪmbli tə wɒt ðə preə bʊk kɔːlz ðə ˈtʃeɪndʒɪz ænd ˈtʃɑːnsɪz əv ðɪs ˈmɔːtl laɪf./"
         }
       },
       {
         "text": "You have set an example of how it is possible to remain effective and dynamic without losing those indefinable qualities, style and character.",
         "analysis": {
           "purpose": "Encourage positive adaptability",
-          "theme": "Balance of tradition and innovation"
+          "theme": "Balance of tradition and innovation",
+          "ipa_transcription": "/juː hæv sɛt ən ɪɡˈzɑːmpəl əv haʊ ɪt ɪz ˈpɒsəbl tə rɪˈmeɪn ɪˈfɛktɪv ænd daɪˈnæmɪk wɪˈðaʊt ˈluːzɪŋ ðəʊz ˌɪndɪˈfaɪnəbl ˈkwɒlɪtiz, staɪl ænd ˈkærɪktə./"
         }
       },
       {
@@ -239,35 +269,40 @@
         "analysis": {
           "purpose": "Reflect on personal journey",
           "key_terms": ["dramatic changes"],
-          "tone": "Nostalgic, reflective"
+          "tone": "Nostalgic, reflective",
+          "ipa_transcription": "/ˈfɔːti jɪəz ɪz kwaɪt ə lɒŋ taɪm. aɪ æm ɡlæd tə hæv hæd ðə tʃɑːns tə ˈwɪtnɪs ænd tə teɪk pɑːt ɪn ˈmɛni drəˈmætɪk ˈtʃeɪndʒɪz ɪn laɪf ɪn ðɪs ˈkʌntri./"
         }
       },
       {
         "text": "And I am glad to say that the magnificent standard of hospitality given on so many occasions to the sovereign by the Lord Mayor of London has not changed at all.",
         "analysis": {
           "purpose": "Acknowledge consistency in hospitality",
-          "theme": "Tradition"
+          "theme": "Tradition",
+          "ipa_transcription": "/ænd aɪ æm ɡlæd tə seɪ ðæt ðə mæɡˈnɪfɪsənt ˈstændəd əv ˌhɒspɪˈtælɪti ˈɡɪvən ɒn səʊ ˈmɛni əˈkeɪʒənz tə ðə ˈsɒvrɪn baɪ ðə lɔːd ˈmɛə əv ˈlʌndən hæz nɒt tʃeɪndʒd æt ɔːl./"
         }
       },
       {
         "text": "It is an outward symbol of one other unchanging factor which I value above all.",
         "analysis": {
           "purpose": "Highlight enduring values",
-          "theme": "Core principles"
+          "theme": "Core principles",
+          "ipa_transcription": "/ɪt ɪz ən ˈaʊtwəd ˈsɪmbəl əv wʌn ˈʌðə ʌnˈtʃeɪndʒɪŋ ˈfæktə wɪtʃ aɪ ˈvæljuː əˈbʌv ɔːl./"
         }
       },
       {
         "text": "The loyalty given to me and to my family by so many people in this country and the Commonwealth throughout my reign.",
         "analysis": {
           "purpose": "Express gratitude for loyalty",
-          "theme": "Royal connection"
+          "theme": "Royal connection",
+          "ipa_transcription": "/ðə ˈlɔɪəlti ˈɡɪvən tə miː ænd tə maɪ ˈfæmɪli baɪ səʊ ˈmɛni ˈpiːpl ɪn ðɪs ˈkʌntri ænd ðə ˈkɒmənwelθ θruːˈaʊt maɪ reɪn./"
         }
       },
       {
         "text": "You, my Lord Mayor, and all those whose prayers, fervent I hope, but not too frequent, have sustained me through all these years our friends indeed.",
         "analysis": {
           "purpose": "Acknowledge support network",
-          "tone": "Affectionate, grateful"
+          "tone": "Affectionate, grateful",
+          "ipa_transcription": "/juː, maɪ lɔːd ˈmɛə, ænd ɔːl ðəʊz huːz preəz, ˈfɜːvənt aɪ həʊp, bʌt nɒt tuː ˈfriːkwənt, hæv səsˈteɪnd miː θruː ɔːl ðiːz jɪəz ˈaʊə frɛndz ɪnˈdiːd./"
         }
       },
       {
@@ -275,7 +310,8 @@
         "analysis": {
           "purpose": "Encourage celebration",
           "rhetorical_device": "Call to action",
-          "tone": "Festive, communal"
+          "tone": "Festive, communal",
+          "ipa_transcription": "/ænd naʊ aɪ ɑːsk juː tə raɪz ænd drɪŋk ðə hɛlθ əv ðə lɔːd ˈmɛə ænd ˌkɔːpəˈreɪʃən əv ˈlʌndən./"
         }
       }
     ],
